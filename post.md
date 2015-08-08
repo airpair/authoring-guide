@@ -87,7 +87,7 @@ already covered here.
 The AirPair blog is focused on long form technical blog posts ideally
 ranging from 1500-4000 words (including code blocks), though some all-time highest trafficked post have been between 10,000-15,000 words.
 
-Posts usually fall into one of these types:
+Posts usually fall into one of these `types`:
 
 - **Tutorial** or step by step guide (beginner, intermediate or advanced)
 - **Comparison** like "SQL vs NoSQL" or "AngularJS vs BackboneJS"
@@ -98,62 +98,63 @@ Posts usually fall into one of these types:
 or reviews of new technologies and software services.
 
 For reasons spanning UX, engagement / comprehension, SEO, Social Sharing and 
-GitHub constraints, **post titles (the h1 element) should be less than 50 chars**
+GitHub constraints, **post titles *(h1 element)* should be less than 50 chars**
 and mention the main technology. 
 
-As long as a post is about software (including programming and non-programming disciplines like UX, Internet Marketing, Lessons from running a Software 
-Startup etc.), we primarily encourage you to let your passions guide topic
+As long as a post is about software (including programming and non-programming disciplines like UX, Internet Marketing, Experience running a Software 
+Business etc.), we encourage you to let your passions primarily guide topic
 choice. We don't mind if you aim to appeal to the masses or focus on something
 niche to strike very deep with a few. Just make sure people understand and care
-about your topic to get enough ratings to make it through the community review
-stage and get published.
+about your topic to get enough ratings to pass community review and get published.
 
 ### 3.2 Original content
 
 AirPair's Posts section is for original content only. (1) Do not submit content
 already published elsewhere. (2) Even if published first on AirPair, do not
-republish your post anywhere including your personal site. Not leaving content 
-and it's associated acknowledgement of community contributions exclusively on 
-airpair.com is likely to lead to your post being taken down and possibly or 
-being banned publising again.
+republish your post anywhere - including your personal site. Not leaving content 
+and associated acknowledgement of community contributions exclusively on 
+airpair.com may lead to your post being taken down and possibly being banned
+publising again.
 
 Under all circumstances, copyright content will be immediately removed. 
 Google and reviewing existing posts similar titled posts before getting 
-started. Post may be removed even if they look similar to ones published 
-prior on another site.
+started. Posts may be removed even if they look similar to ones published 
+prior on other sites.
 
 ### 3.3 Self promotion
 
-The AirPair blog "is" a place for self promotion. Guidelines and tips
-for personal and company promotion coming soon.
+Both personal and company self promotion is encouraged within these 
+guidelines:
 
-**Associate a professional avatar picture 
-<sup>Manage AirPair avatars via [gravtar.com](http://en.gravatar.com/)</sup> with the email of your AirPair
-account.** And connect at least two social profiles for credibility.
+- **Associate a professional avatar 
+<sup>Manage AirPair avatars via [gravtar.com](http://en.gravatar.com/)</sup> with  your AirPair account.** 
+- Connect at least two social profiles for credibility.
 
-<!--Guidelines for author bio text and company promotion to go here-->
+<!-- Guidelines for bio text and to go here-->
+<!-- Guidelines for and company promotion to go here-->
 
 ### 3.4 Formatting 
 
-Posts should appear professionally formatted. By the length of this guide,
-you can see we pay a lot of attenion to detail, including visual aspects. 
-Sticking to pure markdown and avoiding hybrid html / inline css where possible
-is the easiest way to keep things clean. We encourage authoring in the AirPair
-Editor from the get go. The live rending feedback will help you keep things 
-nice.
+Posts should appear professionally formatted. You can tell by the length of 
+this guide, we pay a lot of attenion to detail, including visual aspects. 
+Sticking to pure markdown and avoiding hybrid html and inline css where 
+possible is the easiest way to keep things clean. 
 
-**Tip 1** The AirPair Editor live rendering panel is debounced according to 
-how long your post is. At the start it will refesh almost instantly, but 
-things slow to stop your browser hanging. To make the live view manually 
-refresh at will focus by clicking on the rendered panel.
 
+**Tip 1** Author in the AirPair Editor from the get go. Live rending feedback 
+will help you think about formatting and see things as you write.
 - - -
-
-**Tip 2** Become a markdown master and explore everything from images / media, 
-ordered / unordered lists, code blocks, blockquotes, **bold**, *italic*,
-horizontal rules, line breaks, varying pargraph sizes and small sections to
-utlize 'white space' and break up long blogs of text. Visually digestable 
-content will cause less readers to give up and bounce.
+**Tip 2** The AirPair Editor rendering panel is debounced according to 
+how long your post is. At the start it refeshes almost instantly and slows 
+as you go to stop your browser hanging. To make the rendering panel refresh at
+will focus on the panel by clicking on it.
+- - -
+**Tip 3** Become a markdown master
+<sup>Mastering Markdown takes an hour with the (Darling Fireball Guide)[http://daringfireball.net/projects/markdown/basics]</sup> and explore 
+elements like images, ordered / unordered lists, code blocks, blockquotes,
+**bold** / *italic* font, horizontal rules and line breaks to create 'white
+space'. Long blocks of text can be visually hard to digestable and cause 
+readers to give up and bounce.
 
 ### 3.5 Language
 
