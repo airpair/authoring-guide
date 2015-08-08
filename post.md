@@ -169,17 +169,19 @@ English before you submit.
 
 ### 3.6 Post structure
 
-Unless you go viral, **90% of readers will arrive at your post via a search engine**. Both the platform and structure outlined here, have repetitively
-evolved to optimize SEO and retaining short attention spans. 
+Unless you go viral, **90% of readers will arrive at your post via a search engine**. Both the platform and structure outlined here, have evolved to 
+optimize SEO and retaining short attention spans. 
 
 #### 3.6.1 Synopsis
 
-At the top of your post include a short summary introducing the idea, 
-format, who the post is relevant for (i.e. level of developer / prerequisite
-knowledge). Within 30 seconds readers should clearly know if the post is 
-on-topic for what they are seeking and relevant to their experience.
+At the top of your post include a summary introducing the top-level idea, 
+content format and who the post is relevant for (i.e. level of developer / 
+prerequisite knowledge). In 30 seconds readers should know if the post is 
+what they are seeking and relevant to their experience.
 
-Note the synopsis falls out of the Table of Contents (ToC) and the word *Synopsis* is considered a *pseudo heading* that is only for visual impact. Here is some example markdown for a synopsis:
+The synopsis falls out of the Table of Contents (ToC) and the word *Synopsis* is 
+considered a *pseudo heading* i.e. only a heading in the visual sense. Here is 
+some example markdown for a synopsis:
 ````markdown
 Synopsis
 > So you're interested in blogging? **Thank you** for 
