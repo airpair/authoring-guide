@@ -66,8 +66,8 @@ processeses yet for inappropriate behavior. It's a good example an area for
 the community to flesh out as we continue moving forward.
 
 *** Tip *** if you've incorprated feedback from a review, reply to let the
-reviwer know. They are able to update both their rating and comment at any
-time.
+reviwer know. They are able to update both their rating and comment at any time and will likely increase their star count and replace previous critque with
+praise.
 
 ## 3. Submission guidelines
 
