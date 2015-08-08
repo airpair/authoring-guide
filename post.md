@@ -1,29 +1,33 @@
 Synopsis
-> So you're interested in blogging? **Thank you** for 
-considering AirPair a home to share your creativity and knowledge `{<3}`. The 
+> So you're interested in blogging? **Thank you** `{<3}` for 
+considering AirPair a home to share your creativity and knowledge. The 
 top 20% of posts at airpair.com/posts <sup>[AirPair Posts Section](https://www.airpair.com/posts) (at `airpair.com/posts`)</sup> 
 get viewed on average more than 150,000 times within 12 months! AirPair's 
 posts section is intended for exceptional software content. Publishing top
 content rarely comes with instant gratification. 40% of
 posts submitted to AirPair never get published because they don't make it 
-past the community review stage. This guide includes background, guidelines 
+past the community review process. This guide includes background, guidelines 
 and tips to best leverage community help to improve your post's ratings and 
-ultiamtely attract more readers. All levels of developers writing on
-beginner through advanced topics are welcome. **Read this guide in FULL
-before submitting your first post to the community.**
+ultimately attract more readers. All levels of developers writing
+beginner through advanced topics are welcome. **Read this guide in full
+BEFORE submitting a post to the community.**
 
 ## 1. Community values
 
-AirPair's mission is to share software knowledge. In our philosophy, being 
-an *expert* does not necessarily mean mastering "advanced" knowledge. Being an
-AirPair Expert means attaining enough proficientcy in knowledge 
-**and expression** to effectively communicate and teach any topic ranging
-from beginner to cutting-edge.
+AirPair's mission is to share software knowledge. In our verbiage, being 
+an *expert* does not necessarily mean mastering "advanced" knowledge. You are
+qualified to be an AirPair Expert if you have attained enough proficientcy in
+both *technical knowledge* and *expression* to effectively communicate and 
+teach a beginner or cutting-edge concept.
 
 Advantages of publishing on AirPair include (1) positioning yourself to get 
 hired to dive deeper on knowledge you present and (2) connecting with 
 other experts in your domain that want to share their passion by helping to
-refine and evolve your ideas and expression.
+refine and evolve your posts.
+
+Publish on AirPair is as much about learning through helping as learning 
+through help. You should be intersted in more than your own posts if you want
+to participate.
 
 <!--If neither helping evolve posts by others or teaching customers via 1-2 hour pairing sessions as a paid AirPair consultant is of interest, may not be the optimal place. -->
 
@@ -241,7 +245,7 @@ can ignore how great your post is otherwise and leave negative comments if they
 loose time when code doesn't run unsure if it's your code sample or them doing
 something wrong.  
 
-**Supported language <sup>[supported by the prism plugin](http://prismjs.com/#languages-list)</sup> code samples MUST be correctly syntax highlighted**. ***Tip 1*** If it's not highlighting in the 
+**Supported language <sup>Languages support [by the prism plugin](http://prismjs.com/#languages-list)</sup> code samples MUST be correctly syntax highlighted**. ***Tip 1*** If it's not highlighting in the 
 AirPair Editior, it won't highlight when published. *** Tip 2 *** A common confusion is the use of `markup` as the key to hightlight html. `markup`
 can also be used for xml - hence the name ;).
 
