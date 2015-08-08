@@ -120,8 +120,9 @@ prior on another site.
 The AirPair blog "is" a place for self promotion. Guidelines and tips
 for personal and company promotion coming soon.
 
-**Associate a professional avatar picture<sup>Manage your avatars via gravtar.com</sup> with the email of your AirPair account.** And connect at
-least two social profiles for credibility.
+**Associate a professional avatar picture 
+<sup>Manage AirPair avatars via [gravtar.com](http://en.gravatar.com/)</sup> with the email of your AirPair
+account.** And connect at least two social profiles for credibility.
 
 <!--Guidelines for author bio text and company promotion to go here-->
 
