@@ -20,8 +20,8 @@ AirPair Expert means attaining enough proficientcy in knowledge
 **and expression** to effectively communicate and teach any topic ranging
 from beginner to cutting-edge.
 
-Advantages of publishing on AirPair include (1) positioning yourself to get hired
-to dive deeper on knowledge you present and (2) connecting with 
+Advantages of publishing on AirPair include (1) positioning yourself to get 
+hired to dive deeper on knowledge you present and (2) connecting with 
 other experts in your domain that want to share their passion by helping to
 refine and evolve your ideas and expression.
 
@@ -120,7 +120,10 @@ prior on another site.
 The AirPair blog "is" a place for self promotion. Guidelines and tips
 for personal and company promotion coming soon.
 
-<!--Guidelines for author bios and promotion companies to go here-->
+**Associate a professional avatar picture<sup>Manage your avatars via gravtar.com</sup> with the email of your AirPair account.** And connect at
+least two social profiles for credibility.
+
+<!--Guidelines for author bio text and company promotion to go here-->
 
 ### 3.4 Formatting 
 
