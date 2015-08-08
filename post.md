@@ -127,7 +127,7 @@ Both personal and company self promotion is encouraged within these
 guidelines:
 
 - **Associate a professional avatar 
-<sup>Manage AirPair avatars via [gravtar.com](http://en.gravatar.com/)</sup> with  your AirPair account.** 
+<sup>Manage AirPair avatars via [gravatar.com](http://en.gravatar.com/)</sup> with  your AirPair account.** 
 - Connect at least two social profiles for credibility.
 
 <!-- Guidelines for bio text and to go here-->
