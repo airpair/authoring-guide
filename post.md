@@ -28,8 +28,8 @@ refine and evolve your posts.
 Publishing on AirPair is as much about learning through helping as learning 
 through help. When deciding if AirPair is right for your next post, you should 
 be intersted in more than your own post and either (a) be wanting 
-to help others at least a few hours each month over paid AirPairing session or 
-(b) already helping review posts by others.
+to help others at least a few hours each month over paid AirPairing sessions or 
+(b) already reviewing posts by others.
 
 ## 2. An evolution in progress
 
