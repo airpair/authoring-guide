@@ -1,7 +1,7 @@
 Synopsis
 > So you're interested in blogging? `{<3}` **Thank you** for 
 considering AirPair a home to share your creativity and knowledge. The 
-top 20% of posts at airpair.com/posts <sup>[AirPair Posts Section](https://www.airpair.com/posts) (at `airpair.com/posts`)</sup> 
+top 20% of posts at airpair.com/posts <sup>[AirPair Posts ](https://www.airpair.com/posts) Section (at airpair.com/posts)</sup> 
 get viewed on average more than 150,000 times within 12 months! AirPair's 
 posts section is intended for exceptional software content. Publishing top
 content rarely comes with instant gratification. 40% of
@@ -39,7 +39,7 @@ AirPair Post Section <sup>1</sup> is one of fastest growing and most
 trafficked software blogs ever. That said, we recognize our tooling as 
 half complete and due for more polish. Most folks perceive AirPair 
 as big company. It's acutally run with lots of love `{<3}` by one person.
-The authoring features usually get a wave of attenion ever 3-6 months.
+The authoring features usually get a wave of attenion every 3-6 months.
 
 ### 2.2 Community etiquette
 
@@ -52,21 +52,22 @@ Reviews from other community members will come in many different flavors.
 We're aiming to steer clear of short praise like *"Awesome post"* and utilize
 the review system to facilitate intelligent discussion that leads to better
 content and collaboration. Some folks have sweeter delivery than others 
-and though your post may be excellent, and rated high by a reviewer their 
-feedback may mostly contain critique so as to avoid repeating things said and 
-focus on what could be improved. Reviews are a powerful mechanism to consider
-things with fresh perspective. Take ALL feedback seriously, even if ultimately
-you completely disagree and choose to disregard everything someone says, the 
-process will benefit you and your readers. We ask you adopt a thick skin and
-**thank all reviewers for taking time to read and comment
-even if you don't like what was said**. 
+and though your post may be excellent, and rated high by a reviewer, their 
+initial feedback may mostly contain critique so as to avoid repeating things 
+said and focus on what could be improved. Reviews are a powerful mechanism to
+consider things with fresh perspective. Take ALL feedback seriously, even if
+ultimately you completely disagree and choose to disregard everything someone
+says, the process will benefit you and your readers. We ask you adopt a thick
+skin and **thank all reviewers for taking time to read and comment even if you
+don't like what was said**. 
 
 Trolling and arguments are generally discouraged. There are no definitions or
-processeses yet for inappropriate behavior. It's a good example an area for
-the community to flesh out as we continue moving forward.
+processeses yet for inappropriate behavior. It's a good example of an area for
+the community to decide as we continue moving forward.
 
-*** Tip *** if you've incorprated feedback from a review, reply to let the
-reviwer know. They are able to update both their rating and comment at any time and will likely increase their star count and replace previous critque with
+** Tip ** if you've incorprated feedback from a review, reply to let the
+reviewer know. They are able to update both their rating and comment at any 
+time and will likely increase the stars given and replace previous critque with
 praise.
 
 ## 3. Submission guidelines
@@ -258,7 +259,7 @@ can ignore how great your post is otherwise and leave negative comments if they
 loose time when code doesn't run unsure if it's your code sample or them doing
 something wrong.  
 
-**Supported language <sup>Languages support [by the prism plugin](http://prismjs.com/#languages-list)</sup> code samples MUST be correctly syntax highlighted**. ***Tip 1*** If it's not highlighting in the 
+**Supported language <sup>Languages supported by [the prism syntax highlighting plugin](http://prismjs.com/#languages-list)</sup> code samples MUST be correctly syntax highlighted**. ***Tip 1*** If it's not highlighting in the 
 AirPair Editior, it won't highlight when published. *** Tip 2 *** A common confusion is the use of `markup` as the key to hightlight html. `markup`
 can also be used for xml - hence the name ;).
 
