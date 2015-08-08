@@ -192,14 +192,17 @@ get viewed on average more than 150,000 times within 12 months!
 
 #### 3.6.2 Links
 
-airpair.com gets crawled many times per day. Preview your post and make sure 
-ALL links work. ***Tip:*** You'll drive jk crazy with 404 notifications if 
-you don't properly prefix links with `http` etc. 
+airpair.com gets crawled many times per day. **Properly prefix links with `http(s)://`** to avoid driving jk crazy with 404 notifications.
 
-***Tip*** The more links you include in your post, especially up the top
-of your content, the more likely a ready will click away and not finish. Where
-possible utilize &lt;sup&gt;&lt;/sup&gt; tags to move links into the 
-auto-genearted *References* section down the bottom of your post.
+As a general rule, the more links in your post, particularly up the top, the 
+sooner readers will click off and not come back. Use links judiciously to
+increase engagement.
+
+**Tip 1** Double check all links by clicking them from the full preview view.
+- - -
+**Tip 2** The more links included in your post, particularly towards the top, 
+the sooner most readers will click off your posts and not come back. Utilize &lt;sup&gt;&lt;/sup&gt; tags to reduce link surface and move the exit paths
+down to the auto-genearted *References* section at the bottom of your post.
 
 #### 3.6.3 ToC, headings and subheadings
 
