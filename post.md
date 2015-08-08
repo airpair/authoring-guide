@@ -304,8 +304,7 @@ the issues section of the repo created for your post as good options.
 sharing, but not too big to take un-necessarily bandwidth and time to load.
 Facebook App Tiles (810x450) make a happy medium.
 
-** Tip 1 ** Use a tool like Canva<sup>[canva.com](https://www.canva.com)</sup>
-is a fast way to create images in a browser. You can even start from their "Facebook App" template to get the right dimensions. Going forward, you can upload your images too, and should you need high-quality free images try FreeImages.com<sup>[freeimages.com](http://www.freeimages.com/)</sup>.
+** Tip 1 ** Use a tool like Canva<sup>[canva.com](https://www.canva.com)</sup>, it's a fast way to create images in a browser. You can even start from their "Facebook App" template to get the right dimensions. Going forward, you can also upload your images, and should you need high-quality free images try FreeImages.com<sup>[freeimages.com](http://www.freeimages.com/)</sup>.
 - - -
 ** Tip 2 ** Often the bottoms of tile images get cut off when shown in the 
 list view so place more importance on the top parts vs bottom parts of your
