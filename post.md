@@ -51,12 +51,12 @@ to their feedback and opinions.
 Reviews from other community members will come in many different flavors.
 We're aiming to steer clear of short praise like *"Awesome post"* and utilize
 the review system to facilitate intelligent discussion that leads to better
-content and collaboration. Some folks sweeter delivery than others 
+content and collaboration. Some folks have sweeter delivery than others 
 and though your post may be excellent, and rated high by a reviewer their 
 feedback may mostly contain critique so as to avoid repeating things said and 
-focus on what could be improved. Reviews are a powerful consider things 
-with fresh perspective. Take ALL feedback seriously, even if ultimately you 
-completely disagree and choose to disregard everything someone says, the 
+focus on what could be improved. Reviews are a powerful mechanism to consider
+things with fresh perspective. Take ALL feedback seriously, even if ultimately
+you completely disagree and choose to disregard everything someone says, the 
 process will benefit you and your readers. We ask you adopt a thick skin and
 **thank all reviewers for taking time to read and comment
 even if you don't like what was said**. 
@@ -64,6 +64,10 @@ even if you don't like what was said**.
 Trolling and arguments are generally discouraged. There are no definitions or
 processeses yet for inappropriate behavior. It's a good example an area for
 the community to flesh out as we continue moving forward.
+
+*** Tip *** if you've incorprated feedback from a review, reply to let the
+reviwer know. They are able to update both their rating and comment at any
+time.
 
 ## 3. Submission guidelines
 
