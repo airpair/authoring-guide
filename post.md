@@ -1,16 +1,15 @@
 Synopsis
 > So you're interested in blogging? `{<3}` **Thank you** for 
 considering AirPair a home to share your creativity and knowledge. The 
-top 20% of posts at airpair.com/posts <sup>[AirPair Posts ](https://www.airpair.com/posts) Section (at airpair.com/posts)</sup> 
-get viewed on average more than 150,000 times within 12 months! AirPair's 
-posts section is intended for exceptional software content. Publishing top
-content rarely comes with instant gratification. 40% of
-posts submitted to AirPair never get published because they don't make it 
-past the community review process. This guide includes background, guidelines 
-and tips to best leverage community help to improve your post's ratings and 
-ultimately attract more readers. All levels of developers writing
+top 20% of posts on airpair.com <sup>[AirPair Posts](https://www.airpair.com/posts) Section (at airpair.com/posts)</sup>
+get viewed on average more than 150,000 times within 12 months! Publishing
+top content rarely comes with instant gratification. 40% of
+posts submitted to the `community review` process do not make it
+through to published. This guide includes background, guidelines 
+and tips to best leverage community help to improve your post's ratings
+and ultimately attract more readers. Developers of all levels of writing
 beginner through advanced topics are welcome. **Read this guide in full
-BEFORE submitting a post to the community.**
+BEFORE submitting your post to the community.**
 
 ## 1. Community values
 
