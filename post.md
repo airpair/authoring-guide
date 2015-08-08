@@ -15,7 +15,7 @@ BEFORE submitting your post to the community.**
 
 AirPair's mission is to share software knowledge. In our verbiage, being 
 an *"expert"* does not necessarily involve mastering "cutting-edge" knowledge. 
-An *AirPair Expert* is about attaiing enough proficientcy in both *technical knowledge* and *expression* to effectively communicate and teach beginner 
+An *AirPair Expert* is about attaining enough proficientcy in both *technical knowledge* and *expression* to effectively communicate and teach beginner 
 or advanced concepts.
 
 Advantages of publishing on AirPair include *(1)* positioning yourself to get 
@@ -60,7 +60,7 @@ skin and **thank all reviewers for taking time to read and comment even if you
 don't like what was said**. 
 
 Trolling and arguments are generally discouraged. There are no definitions or
-processeses yet for inappropriate behavior. It's a good example of an area for
+processes yet for inappropriate behavior. It's a good example of an area for
 the community to decide as we continue moving forward.
 
 ** Tip ** if you've incorprated feedback from a review, reply to let the
