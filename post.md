@@ -1,5 +1,5 @@
 Synopsis
-> So you're interested in blogging? **Thank you** `{<3}` for 
+> So you're interested in blogging? `{<3}` **Thank you** for 
 considering AirPair a home to share your creativity and knowledge. The 
 top 20% of posts at airpair.com/posts <sup>[AirPair Posts Section](https://www.airpair.com/posts) (at `airpair.com/posts`)</sup> 
 get viewed on average more than 150,000 times within 12 months! AirPair's 
@@ -35,10 +35,10 @@ contribute to posts by others.
 
 ### 2.1 Platform
 
-AirPair Posts <sup>1</sup> is one of fastest growing and most 
+AirPair Post Section <sup>1</sup> is one of fastest growing and most 
 trafficked software blogs ever. That said, we recognize our tooling as 
 half complete and due for more polish. Most folks perceive AirPair 
-as big company. It's acutally run with lots of love {<3} by one person.
+as big company. It's acutally run with lots of love `{<3}` by one person.
 The authoring features usually get a wave of attenion ever 3-6 months.
 
 ### 2.2 Community etiquette
@@ -48,18 +48,18 @@ distinguished **"Resident Authors"**, awarded the `{R}` badge for helping
 others and embodying the culture we want to grow. Please pay special attention 
 to their feedback and opinions.
 
-Reviews from other community members will come in many different forms.
+Reviews from other community members will come in many different flavors.
 We're aiming to steer clear of short praise like *"Awesome post"* and utilize
-the review system to facilitate quality discussion that leads to better
-content through collaboration. Some folks are better at delivery than others 
+the review system to facilitate intelligent discussion that leads to better
+content and collaboration. Some folks sweeter delivery than others 
 and though your post may be excellent, and rated high by a reviewer their 
-feedback may be mostly critique so as to avoid repeating this said already and 
-focus on what could be improved. Reviews are a very powerful tool to see things 
+feedback may mostly contain critique so as to avoid repeating things said and 
+focus on what could be improved. Reviews are a powerful consider things 
 with fresh perspective. Take ALL feedback seriously, even if ultimately you 
-completely disagree and choose to disregard everything someone says, the process
-to consider everything will be to you and your readers' benefit. We ask you to
-adopt a think and still **thank reviewers for taking time to read and comment
-even if you don't like what they said**. 
+completely disagree and choose to disregard everything someone says, the 
+process will benefit you and your readers. We ask you adopt a thick skin and
+**thank all reviewers for taking time to read and comment
+even if you don't like what was said**. 
 
 Trolling and arguments are generally discouraged. There are no definitions or
 processeses yet for inappropriate behavior. It's a good example an area for
