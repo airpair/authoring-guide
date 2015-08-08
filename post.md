@@ -172,7 +172,20 @@ English before you submit.
 Unless you go viral, **90% of readers will arrive at your post via a search engine**. Both the platform and structure outlined here, have evolved to 
 optimize SEO and retaining short attention spans. 
 
-#### 3.6.1 Synopsis
+#### 3.6.1 Title
+
+Make sure to select a good title.  Good titles are:
+
+1.  **Specific** - you should mention not only the technology you're working with (Angular, React, etc), but also the particular facet.
+
+2.  **Eye-catching** - try to make the name evoke some interest
+
+
+Okay title:  Scope in Angular Directives
+Better title:  Transclusion and Template Scope in Angular Directives Demystified
+
+
+#### 3.6.2 Synopsis
 
 At the top of your post include a summary introducing the top-level idea, 
 content format and who the post is relevant for (i.e. level of developer / 
@@ -190,7 +203,7 @@ top 20% of posts at airpair.com/posts
 get viewed on average more than 150,000 times within 12 months!
 ````
 
-#### 3.6.2 Links
+#### 3.6.3 Links
 
 airpair.com gets crawled many times per day. **Properly prefix links with `http(s)://`** to avoid driving jk crazy with 404 notifications.
 
@@ -204,7 +217,7 @@ increase engagement.
 the sooner most readers will click off your posts and not come back. Utilize &lt;sup&gt;&lt;/sup&gt; tags to reduce link surface and move the exit paths
 down to the auto-genearted *References* section at the bottom of your post.
 
-#### 3.6.3 ToC, headings and subheadings
+#### 3.6.4 ToC, headings and subheadings
 
 The Table of Contents (ToC) widget automatically grabs headings ( **\#\#** / **\#\#\#** / **\#\#\#\#** ) out of your markdown and renders them down the
 right hand side of your post as table of links enabling the user to 
@@ -253,7 +266,7 @@ If you choose to number sections in your post, copy the format in this post.
 ** 3.6.3.4 Gotcha's**  
 1. Try avoid headings (especially h1) in code-samples when possible.
 
-#### 3.6.4 Code samples
+#### 3.6.5 Code samples
 
 Tripple check all code runs before submitting your post. Readers are often
 already overwhelmed and frustrated learning the subject matter. Commonly they 
