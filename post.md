@@ -206,62 +206,58 @@ down to the auto-genearted *References* section at the bottom of your post.
 
 #### 3.6.3 ToC, headings and subheadings
 
-The Table of Contents (ToC) widget automatically grabs headings (\#\#,\#\#\#, 
-\#\#\#\#) out of your markdown and renders them as your ToC. Headings are 
-extremely important and one of the drivers of AirPairs search traffic success.
+The Table of Contents (ToC) widget automatically grabs headings ( **\#\#** / **\#\#\#** / **\#\#\#\#** ) out of your markdown and renders them down the
+right hand side of your post as table of links enabling the user to 
+immmediately seek to any given section. 
 
-** 3.6.3.1 One heading (h1) to rule them all! **  
-h1s (#) should not appear anywhere in your content. Correct markup includes a
-single h1 element in any given html document. Having more than one h1 will
-negatively impact your posts SEO.
+Headings are extremely important and one of the drivers of AirPairs search traffic success so pay attention!
 
-** 3.6.3.2 Table of contents guidlines & tricks**  
-A ToC should be short enough that it's container element does not go into
-auto-scroll mode. 
-- ***Tip 1*** To see your down the right side of your post open it in preview
-mode. 
-- ***Tip 2*** To keep your ToC a reasonable height, don't have more than one 
-or two long headings spaning multiple lines in the ToC widget. 
-- ***Tip 3*** (Like in this section) use psuedo headings (bold, bold-italic) 
-instead of h5s. 
-- ***Tip 4*** Consider breaking your post into multiple parts if it's still too long.
+** 3.6.3.1 *One (`h1`) heading to rule them all!* **  
+h1s (**#**) should NOT appear in your post markdown. Correct HTML includes a
+single h1 element in any document. More than one h1 will
+negatively impact your post's SEO.
 
-**3.6.3.3** ***Optimize search and seek***  
-Your post will probably be on one of many tabs a user is skimming as they 
-google for answers and instant gratification. Top posts provide both wholistic
-value and value section by section even when considered in isolation. 
+**3.6.3.2 *Optimize for search and seek* **  
+Your post will probably be on one of many tabs a reader seeks through as they 
+google for instant gratification. Top posts provide both wholistic
+value and compartmentalized value in each section when considered in isolation. 
 
-Reader are often searching for something VERY specific and one section may
-be exactly what they need, but the rest of your post is not as relevant.
-that helped the readers find your post and quickly seek to potentially the only
-part they are interested in.
+Readers often searching for VERY specific things and one section in your post 
+may be exactly what they need, but the rest irrelevant. Well chosen headings 
+help readers find your post using search engines and quickly seek to the 
+relevant content before giving up when unsure if the effort to scan your post
+is worth it.
 
-If each section of your post is valuable, but you use generic headings like 
-"Introduction", "Conclusion", "Step 1", "Getting Started" readers searching
-for content described in a sub-section is far less likely (1) to find your
-post via search results (2) find your gold nuget before deciding it's too much
-effort to scan your post to figure out if it has what they need.
+**Tip 1** Avoid headings like "Introduction", "Conclusion", "Step 1", "Getting Started" that will inhibit the content in those sections being found.
+- - -
+**Tip 2** Think about what readers would type to find each section
+in isolation. This will dramatically help your consitent the overall structure 
+and flow of your post and identify when it may be better split out multiple
+concepts under their's own headings.
 
-Forcing yourself to think about what someone would type to find each section
-will dramatically help you improve the overall structure of your post. If you
-think you would need multiple keywords, a section may be better split out and
-each concept explained seperately under it's own heading.
+** 3.6.3.2 *ToC and heading lengths* **  
+A ToC should be short enough that it's container element does not render in
+css auto-scroll mode. To keep your ToC a reasonable height, don't have more than one or two long headings spaning multiple lines in the ToC widget. 
 
-** 3.6.3.4 Numbering format**  
-Numbering is optional. In some (usually longer) posts it can add value. In 
-others really detracts with un-necessary visual clutter and diluted SEO. 
-If you choose to number sections in your post, as used in this post the
-format is `2.3.4.P` where `.` is used to indicate sub-subsection but is
-not used to trail the number.
+**Tip 1** Use psuedo headings (Like in this section) instead of h5 and h6.
+- - -
+**Tip 2** Consider breaking a post into multiple parts if you can't figure
+out how to keep the ToC a resonable length.
 
-** 3.6.3.4 Heading gotcha's**  
-1. Headings (especially h1) should be avoided in code-samples when possible.
+
+** 3.6.3.4 *Numbering format* **  
+Numbering is optional. In some (usually longer) posts they can add value. In 
+others it can detract with un-necessary visual clutter and diluted SEO. 
+If you choose to number sections in your post, copy the format in this post.
+
+** 3.6.3.4 Gotcha's**  
+1. Try avoid headings (especially h1) in code-samples when possible.
 
 #### 3.6.4 Code samples
 
-Tripple check all code runs before submitting your post. Often readers are 
+Tripple check all code runs before submitting your post. Readers are often
 already overwhelmed and frustrated learning the subject matter. Commonly they 
-can ignore how great your post is otherwise and leave negative comments if they 
+ignore how great your post is and leave negative comments if they 
 loose time when code doesn't run unsure if it's your code sample or them doing
 something wrong.  
 
