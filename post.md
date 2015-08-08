@@ -25,11 +25,11 @@ hired to dive deeper on knowledge you present and (2) connecting with
 other experts in your domain that want to share their passion by helping to
 refine and evolve your posts.
 
-Publish on AirPair is as much about learning through helping as learning 
-through help. You should be intersted in more than your own posts if you want
-to participate.
-
-<!--If neither helping evolve posts by others or teaching customers via 1-2 hour pairing sessions as a paid AirPair consultant is of interest, may not be the optimal place. -->
+Publishing on AirPair is as much about learning through helping as learning 
+through help. When deciding if AirPair is right for your next post, you should 
+be intersted in more than your own post and either (a) be wanting 
+to helping others over (paid) AirPairing or (b) excited to help review and 
+contribute to posts by others.
 
 ## 2. An evolution in progress
 
