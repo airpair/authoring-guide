@@ -72,12 +72,10 @@ praise.
 
 ## 3. Submission guidelines
 
-Once you think your post is good enough to be seen by others you're ready for
-`submit` for `community review`. Know and incorporate the guidelines
-in this section to best respect and value time donated by your peers towards
-helping improve so that it has high enough ratings to get published. It's
-rare for folks to review posts more than once. To get the most creative input, 
-avoid reviews having to point out things already covered in this section.
+When you start feeling your post is appraching good enough to be seen by others,
+it's time familiarize and incorporate the guidelines in this section. It's
+rare for folks to deeply review posts more than once. To get the most creative
+input, avoid reviewers having to point out things covered here.
 
 ### 3.1 Long form posts & topics
 
