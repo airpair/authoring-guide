@@ -279,10 +279,37 @@ Nice colors!
 
 #### 3.6.4 Media
 
+** 3.6.4.1 *https* **  
 Prefixed ALL image urls with `https` and NOT `http` or readers will get 
 insecure warnings from their browser.
 
-<!-- **Tile image** -->
+** 3.6.4.2 *Tile images* **  
+The relevance, clarity and professionalism of the main tile image used to represent a post is VERY important. The tile image gets used not only in
+the header of a post, but in the "tiles" list view of the Posts section,
+tagged collections of posts, (eventually) on your AirPair profile,
+in sharing to facebook & linkedIn via the `ogImage` tag, tweets by @airpair
+and (soon) in weekely content digest emails.
+
+Potential readers will judge pre-judge your post similar to the way people 
+"judge a book by it's cover". Follow the following guidelines:
+
+1. Make your tile relevant. Random images & artwork are discouraged.
+2. Use a solid color or pattern as the images background.
+3. Incorporate one logo or even multiple logos of the technilogies
+being explored in your content.
+4. Optionally incorporate the airpair logo <sup>AirPair logo uploaded to an [issue for this posts's repo](https://github.com/airpair/authoring-guide/issues/1)</sup>
+5. Host your image somewhere that supports https. imgur, github.io or even
+the issues section of the repo created for your post as good options.
+6. The image size and dimensions should be large enough for social
+sharing, but not too big to take un-necessarily bandwidth and time to load.
+Facebook App Tiles (810x450) make a happy medium.
+
+** Tip 1 ** Use a tool like Canva <sup>[canva.com](https://www.canva.com)</sup>
+is a fast way to create images in a browser. You can even start from their "Facebook App" template to get the right dimensions.
+- - -
+** Tip 2 ** Often the bottoms of tile images get cut off when shown in the 
+list view so place more importance on the top parts vs bottom parts of your
+image.
 
 <!-- ## ? Reviews -->
 
