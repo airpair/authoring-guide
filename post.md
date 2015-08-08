@@ -176,13 +176,14 @@ optimize SEO and retaining short attention spans.
 
 Make sure to select a good title.  Good titles are:
 
-1.  **Specific** - you should mention not only the technology you're working with (Angular, React, etc), but also the particular facet.
+1.  **Specific** - you should mention not only the technology you're working with (Angular, React, etc), but also the particular sub-topic.
 
-2.  **Eye-catching** - try to make the name evoke some interest
+2.  **Eye-catching** - try to incorporate words that evoke the value proposition of the post.
 
 
-Okay title:  Scope in Angular Directives
-Better title:  Transclusion and Template Scope in Angular Directives Demystified
+**Okay title**:  Scope in Angular Directives
+
+**Better title**:  Transclusion and Template Scope in Angular Directives Demystified
 
 
 #### 3.6.2 Synopsis
