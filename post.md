@@ -132,16 +132,25 @@ account.** And connect at least two social profiles for credibility.
 
 ### 3.4 Formatting 
 
-Posts should appear professionally formatted. Sticking to pure markdown
-and avoiding hybrid html / inline css where possible is the easiest way
-to keep things clean. We encourage authoring in the AirPair Editor from the 
-get go. The live rending feedback will help you keep things nice.
+Posts should appear professionally formatted. By the length of this guide,
+you can see we pay a lot of attenion to detail, including visual aspects. 
+Sticking to pure markdown and avoiding hybrid html / inline css where possible
+is the easiest way to keep things clean. We encourage authoring in the AirPair
+Editor from the get go. The live rending feedback will help you keep things 
+nice.
 
-**Tip ** Become a markdown master and explore everything from images / media, 
-ordered / unordered lists, code blocks, blockquotes, bold, italic, horizontal
-rules, line breaks, varying pargraph sizes and small sections to utlize 'white
-space' and break up long blogs of text. Visually digestable content will cause
-less readers to give up and bounce.
+**Tip 1** The AirPair Editor live rendering panel is debounced according to 
+how long your post is. At the start it will refesh almost instantly, but 
+things slow to stop your browser hanging. To make the live view manually 
+refresh at will focus by clicking on the rendered panel.
+
+- - -
+
+**Tip 2** Become a markdown master and explore everything from images / media, 
+ordered / unordered lists, code blocks, blockquotes, **bold**, *italic*,
+horizontal rules, line breaks, varying pargraph sizes and small sections to
+utlize 'white space' and break up long blogs of text. Visually digestable 
+content will cause less readers to give up and bounce.
 
 ### 3.5 Language
 
@@ -149,8 +158,8 @@ Refrain from coarse language and questionable socio-cultural statements,
 including sexist and racist remarks.
 
 Check spelling and grammar. As a guide there should be no more than
-10 obvious mistakes per 1000 words. Use spell checks and if necesssary get a
-friend to review your English before you submit.
+10 obvious mistakes per 1000 words. Use a spell checker and if necesssary get 
+a friend to review your English before you submit.
 
 ### 3.6 Post structure
 
@@ -274,7 +283,7 @@ insecure warnings from their browser.
 
 <!-- ## ? Forking -->
 
-## 6 Random idiosyncrasies
+## 6. Random idiosyncrasies
 
 - **New lines in the editor**. At some point we tried to get the editor to
 auto generate new lines after 80 characters, but things went wrong and we'll
