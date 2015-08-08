@@ -14,21 +14,20 @@ BEFORE submitting your post to the community.**
 ## 1. Community values
 
 AirPair's mission is to share software knowledge. In our verbiage, being 
-an *expert* does not necessarily mean mastering "advanced" knowledge. You are
-qualified to be an AirPair Expert if you have attained enough proficientcy in
-both *technical knowledge* and *expression* to effectively communicate and 
-teach a beginner or cutting-edge concept.
+an *"expert"* does not necessarily involve mastering "cutting-edge" knowledge. 
+An *AirPair Expert* is about attaiing enough proficientcy in both *technical knowledge* and *expression* to effectively communicate and teach beginner 
+or advanced concepts.
 
-Advantages of publishing on AirPair include (1) positioning yourself to get 
-hired to dive deeper on knowledge you present and (2) connecting with 
-other experts in your domain that want to share their passion by helping to
+Advantages of publishing on AirPair include *(1)* positioning yourself to get 
+hired to consult around knowledge you present and *(2)* connecting with 
+other experts in your domain that want to share similar passions by helping
 refine and evolve your posts.
 
 Publishing on AirPair is as much about learning through helping as learning 
-through help. When deciding if AirPair is right for your next post, you should 
-be intersted in more than your own post and either (a) be wanting 
-to help others at least a few hours each month over paid AirPairing sessions or 
-(b) already reviewing posts by others.
+through help. When deciding to publish here, you should be intersted in more 
+than your own posts and either *(a)* be wanting to help others at least a few 
+hours each month over live Airpair pair programming sessions or *(b)* already
+reviewing posts by others.
 
 ## 2. An evolution in progress
 
