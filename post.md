@@ -73,9 +73,10 @@ praise.
 ## 3. Submission guidelines
 
 When you start feeling your post is appraching good enough to be seen by others,
-it's time familiarize and incorporate the guidelines in this section. It's
-rare for folks to deeply review posts more than once. To get the most creative
-input, avoid reviewers having to point out things covered here.
+it's time to familiarize and incorporate the guidelines of this section into
+your post. It's rare for folks to deeply review posts more than once. To get 
+the most creative input, avoid reviewers having to point out things covered 
+here.
 
 ### 3.1 Long form posts & topics
 
@@ -84,7 +85,7 @@ input, avoid reviewers having to point out things covered here.
  the Q/A format and types of questions accepted by the community.-->
 
 The AirPair blog is focused on long form technical blog posts ideally
-ranging from 1500-4000 words (including code blocks). 
+ranging from 1500-4000 words (including code blocks), though some of the most all-time highest trafficked post have have been betwen 10,000-15,000 words.
 
 Posts usually fall into one of these categories or post `types`
 
@@ -96,17 +97,17 @@ Posts usually fall into one of these categories or post `types`
 to community like "What I learned at Ng-conf 2015"
 - **Comparison** like "SQL vs NoSQL" or "AngularJS vs BackboneJS"
 
-For reasons ranging UX, comprehension, SEO, Sharing and GitHub constraints, 
-**post titles (h1) should be less than 50 chars** and mention the main 
-technology discussed. 
+For reasons spanning UX, comprehension, SEO, Social Sharing and GitHub 
+constraints, **post titles (the h1 element) should be less than 50 chars** and 
+mention the main technology discussed. 
 
-As long as a post is about software - including non-programming disciplines 
-like User Experience, Internet Marketing, Lessons launching a Software Startup 
-etc.), we primarily encourage you to let your area of passions guide topic
-choice. We don't mind if you aim to appealing to the masses or 
-focus on something niche that will strike very deeply with a few. Just 
+As long as a post is about software (including non-programming disciplines 
+like UX, Internet Marketing, Lessons launching a Software Startup 
+etc.), we primarily encourage you to let your passions guide topic
+choice. We don't mind if you aim to appeal to the masses or 
+focus on something niche to strike very deep with a few. Just 
 make sure enough people understand and care about your topic to get
-enough reviews to make it through to getting published.
+enough ratings to make it through community review and get published.
 
 ### 3.2 Original content
 
