@@ -15,7 +15,7 @@ BEFORE submitting your post to the community.**
 
 AirPair's mission is to share software knowledge. In our verbiage, being 
 an *"expert"* does not necessarily involve mastering "cutting-edge" knowledge. 
-An *AirPair Expert* is about attaining enough proficientcy in both *technical knowledge* and *expression* to effectively communicate and teach beginner 
+An *AirPair Expert* is about attaining enough proficiency in both *technical knowledge* and *expression* to effectively communicate and teach beginner 
 or advanced concepts.
 
 Advantages of publishing on AirPair include *(1)* positioning yourself to get 
