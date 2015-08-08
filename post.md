@@ -70,11 +70,13 @@ praise.
 
 ## 3. Submission guidelines
 
-When you start feeling your post is appraching good enough to be seen by others,
-it's time to familiarize and incorporate the guidelines of this section into
-your post. It's rare for folks to deeply review posts more than once. To get 
-the most creative input, avoid reviewers having to point out things covered 
-here.
+*Last updated Aug 8, 2015*
+
+When you start feeling your post is starting to look good enough to be seen by 
+others, it's time to familiarize and incorporate the guidelines of this section
+into your post. It's rare for folks to deeply review posts more than once. 
+To get the most creative input, avoid reviewers having to point out things 
+already covered here.
 
 ### 3.1 Long form posts & topics
 
@@ -83,29 +85,28 @@ here.
  the Q/A format and types of questions accepted by the community.-->
 
 The AirPair blog is focused on long form technical blog posts ideally
-ranging from 1500-4000 words (including code blocks), though some of the most all-time highest trafficked post have have been betwen 10,000-15,000 words.
+ranging from 1500-4000 words (including code blocks), though some all-time highest trafficked post have been between 10,000-15,000 words.
 
-Posts usually fall into one of these categories or post `types`
+Posts usually fall into one of these types:
 
 - **Tutorial** or step by step guide (beginner, intermediate or advanced)
+- **Comparison** like "SQL vs NoSQL" or "AngularJS vs BackboneJS"
 - **Show and tell** of a neat thing you built and open-sourced
 - **Deep dive** on a specific language or framework internals or feature
 - **Knowledge list** like "Top 10 mistakes ..." or "5 tips for ..."
-- **Opinion piece** on *anything software* from thoughts on CompSci concepts, 
-to community like "What I learned at Ng-conf 2015"
-- **Comparison** like "SQL vs NoSQL" or "AngularJS vs BackboneJS"
+- **Opinion piece** on *anything software* from academia to community activity
+or reviews of new technologies and software services.
 
-For reasons spanning UX, comprehension, SEO, Social Sharing and GitHub 
-constraints, **post titles (the h1 element) should be less than 50 chars** and 
-mention the main technology discussed. 
+For reasons spanning UX, engagement / comprehension, SEO, Social Sharing and 
+GitHub constraints, **post titles (the h1 element) should be less than 50 chars**
+and mention the main technology. 
 
-As long as a post is about software (including non-programming disciplines 
-like UX, Internet Marketing, Lessons launching a Software Startup 
-etc.), we primarily encourage you to let your passions guide topic
-choice. We don't mind if you aim to appeal to the masses or 
-focus on something niche to strike very deep with a few. Just 
-make sure enough people understand and care about your topic to get
-enough ratings to make it through community review and get published.
+As long as a post is about software (including programming and non-programming disciplines like UX, Internet Marketing, Lessons from running a Software 
+Startup etc.), we primarily encourage you to let your passions guide topic
+choice. We don't mind if you aim to appeal to the masses or focus on something
+niche to strike very deep with a few. Just make sure people understand and care
+about your topic to get enough ratings to make it through the community review
+stage and get published.
 
 ### 3.2 Original content
 
