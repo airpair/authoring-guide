@@ -161,31 +161,24 @@ Refrain from coarse language and questionable socio-cultural statements,
 including sexist and racist remarks.
 
 Check spelling and grammar. As a guide there should be no more than
-10 obvious mistakes per 1000 words. Use a spell checker and if necesssary get 
-a friend to review your English before you submit.
+10 obvious mistakes per 1000 words.
+
+** Tip ** Use a spell checker and if necesssary get a friend to review your
+English before you submit.
 
 ### 3.6 Post structure
 
-Unless you go viral, **90% of readers will arrive at your post via  search**. 
-Both the platform and structure outlined here were designed with towards 
-optimizinng SEO and catching short attention spans. Your post will probably be
-one of many tabs a user is skimming as they google for answers.
-
-Top posts provide both wholistic value and section by section in 
-isolation. I.e. it's possible that a reader is searching for something VERY
-specific which your posts covers under one heading that helped the readers
-find your post and quickly seek to potentially the only part they are
-interested in.
+Unless you go viral, **90% of readers will arrive at your post via a search engine**. Both the platform and structure outlined here, have repetitively
+evolved to optimize SEO and retaining short attention spans. 
 
 #### 3.6.1 Synopsis
 
 At the top of your post include a short summary introducing the idea, 
 format, who the post is relevant for (i.e. level of developer / prerequisite
-knowledge) and where to go if the reader needs to build up first. Within 30
-seconds readers should clearly know if the post is on-topic for what they are 
-seeking and relevant to their experience.
+knowledge). Within 30 seconds readers should clearly know if the post is 
+on-topic for what they are seeking and relevant to their experience.
 
-Note the synopsis falls out of the Table of Contents (ToC) and the word *Synopsis* is considered only a pseudo heading. Here is an example markdown for a synopsis:
+Note the synopsis falls out of the Table of Contents (ToC) and the word *Synopsis* is considered a *pseudo heading* that is only for visual impact. Here is some example markdown for a synopsis:
 ````markdown
 Synopsis
 > So you're interested in blogging? **Thank you** for 
@@ -228,6 +221,15 @@ instead of h5s.
 - ***Tip 4*** Consider breaking your post into multiple parts if it's still too long.
 
 **3.6.3.3** ***Optimize search and seek***  
+Your post will probably be on one of many tabs a user is skimming as they 
+google for answers and instant gratification. Top posts provide both wholistic
+value and value section by section even when considered in isolation. 
+
+Reader are often searching for something VERY specific and one section may
+be exactly what they need, but the rest of your post is not as relevant.
+that helped the readers find your post and quickly seek to potentially the only
+part they are interested in.
+
 If each section of your post is valuable, but you use generic headings like 
 "Introduction", "Conclusion", "Step 1", "Getting Started" readers searching
 for content described in a sub-section is far less likely (1) to find your
