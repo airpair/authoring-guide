@@ -332,7 +332,7 @@ If you choose to number sections in your post, copy the format in this post.
 ** 3.6.3.4 Gotcha's**  
 1. Try avoid headings (especially h1) in code-samples when possible.
 
-#### 3.6.4 Code samples
+### 3.7 Code samples
 
 Tripple check all code runs before submitting your post. Readers are often
 already overwhelmed and frustrated learning the subject matter. Commonly they 
@@ -357,13 +357,13 @@ Nice colors!
 </example>
 ```
 
-#### 3.6.5 Media
+### 3.8 Media
 
-** 3.6.5.1 *https* **  
+#### 3.8.1 Use https
 Prefixed ALL image urls with `https` and NOT `http` or readers will get 
 insecure warnings from their browser.
 
-** 3.6.5.2 *Tile images* **  
+#### 3.8.2 Tile image
 The relevance, clarity and professionalism of the main tile image used to 
 represent a post is VERY important. The tile image gets used not only in
 the header of a post, but in the "tiles" list view of the Posts section,
