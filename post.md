@@ -445,26 +445,27 @@ Most things in this section are a result of the work in progress nature of
 the platform and will disappear over time. They are quite important to be 
 aware of.
 
-### 6.1 Merge as quickly as possible
+### 6.1 Merge quickly
 
 Acknowleding contributions is an important community etiquette. Eventually all
 contributions and updated dates will be displayed on each post. 
 
 The AirPair Editor is not yet capable of handling more than basic forking 
-scenarios. Things like merge conflicts will make the effort of accepting and  acknowledging contributions too high. 
+scenarios. Things like merge conflicts will make the effort of accepting and
+acknowledging contributions too high. 
 
 **Tip** The easiest approach is to merge a contribution even if it's only 90% 
 there and add the last 10% of polish yourself on top of their commit.
 
-### 6.2 New lines on tracking contributions with git 
-At one point we tried to get the editor to
-auto generate new lines after 80 characters, but things went wrong and we'll
-try again. A good practice is to manually add new lines just before the gray
-line on the right edge of the editor. Without new lines, edits made by 
-contributors will be difficult to see as git may track a whole paragraph 
-instead of an 80 char chunk for simple spelling corrections.
+### 6.2 Manually add new lines
+At one point we tried to get the editor to auto generate new lines after 80 
+characters, but things went wrong and we'll try again. A good practice is to
+manually add new lines just before the gray line on the right edge of the 
+editor. Without new lines, edits made by contributors will be difficult to 
+see as git may track a whole paragraph instead of an 80 char chunk for simple
+spelling corrections.
 
-### 6.3 A language not correctly syntax highlighting
+### 6.3 Syntax highlighting not working
 email team at 
 airpair, as it could be recently added or intentially not yet included in our 
 custom build because we didn't want users downloading 100's of Kbs of un-used
