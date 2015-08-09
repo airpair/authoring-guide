@@ -400,37 +400,31 @@ image.
 
 ## 4 Getting reviews and publishing
 
-### 4.1 Who should and shouldn't review
+### 4.1 Who should review
 
-The people reviewing your post should have enough technical knowledge on your
-subject matter compehend the accuracy of your post and formulate genuine
-feedback and insight.
+People reviewing your post should have sufficient technical knowledge to
+compehend the accuracy of your post and formulate genuine feedback and insight.
 
-If your topic is broad, it's possible enough community peers will review your
-post without effort on your end. If you don't have enough reviews you can 
-tweet asking the public to look at your post. If you topic is niche, you may 
-have do some email outreach to other bloggers coming up in google around 
-your topic subject matter. 
+If your topic is broad, enough community members will likely review without
+any action. If you don't get enough reviews you can tweet to the public to look
+at your post. If your topic is niche, you may need to perform outreach and ask
+subject matter experts outside the AirPair community to review your post.
 
-** Tip ** Email outreach on the topic of sharing high quality work is a very
-powerful way of personal networking and very beneficial to growing our 
-community.
+Do not ask friends to review unless they are also an expert on your topic. 
+Ratings are how the community acknowledges exceptional work. We will remove 
+posts and ban authors that try to game ratings in any way.
 
-Do not ask friends to review your post unless they are also an expert on your
-posts topic.
-
-Ratings are the community's way of acknowledging exceptional contributions. 
-Consistent and fair ratings is a plaform priority. We have and will continue
-to remove posts and ban users gaming ratings in any way.
+** Tip ** Researching and emailing others blogging on similar topics is a very
+powerful way of networking and very beneficial to growing our community.
 
 ### 4.2 When to publish
 
-You can self publish once you have 3 or more reviews with an average of 4/5 
+You can self publish with 3 or more reviews with an average of 4/5 
 stars or more. 
 
-**Tip** Once you think your post is complete and ready to go live, step away
-for 2 days leaving your post in review, befire coming back and reading one
-more time from start to end. You'll almost always spot something you want to
+**Tip** Once you feel ready to push it live, we recommend to step away
+for 2 days leaving your post in review, before coming back for one final
+start to end read. You'll almost always spot one or two things you wish to
 improve before pulling the trigger.
 
 <!-- ## ? Git Publishing -->
