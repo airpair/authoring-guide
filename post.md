@@ -78,7 +78,9 @@ into your post. It's rare for folks to deeply review posts more than once.
 To get the most creative input, avoid reviewers having to point out things 
 already covered here.
 
-### 3.1 Long form posts & topics
+### 3.1 Content format & topic requirements
+
+#### 3.1.1 Long form posts
 
 <!-- Many different written formats conduct software knowledge successfully. One
  reason StackOverflow became successful was discipline and consistency around
@@ -86,6 +88,8 @@ already covered here.
 
 The AirPair blog is focused on long form technical blog posts ideally
 ranging from 1500-4000 words (including code blocks), though some all-time highest trafficked post have been between 10,000-15,000 words.
+
+#### 3.1.2 Post types and topics
 
 Posts usually fall into one of these `types`:
 
@@ -97,15 +101,73 @@ Posts usually fall into one of these `types`:
 - **Opinion piece** on *anything software* from academia to community activity
 or reviews of new technologies and software services.
 
-For reasons spanning UX, engagement / comprehension, SEO, Social Sharing and 
-GitHub constraints, **post titles *(h1 element)* should be less than 50 chars**
-and mention the main technology. 
-
 As long as a post is about software (including programming and non-programming disciplines like UX, Internet Marketing, Experience running a Software 
 Business etc.), we encourage you to let your passions primarily guide topic
 choice. We don't mind if you aim to appeal to the masses or focus on something
 niche to strike very deep with a few. Just make sure people understand and care
 about your topic to get enough ratings to pass community review and get published.
+
+#### 3.1.3 Choosing a title
+
+The title is the most important part of a post. Every charcater is 100x more 
+imporant that one in the actual post and can be the difference between being
+at the top of search engine resuls or never being discovered at all.
+
+For reasons spanning UX, engagement / comprehension, SEO, Social Sharing and 
+GitHub constraints, **post titles *(h1 element)* should be less than 50 chars**.
+
+Mention at least the main technology if not multiple technologies you are
+exploring in full (e.g. `AngularJS` is better than `Angular`), though you should
+it up in your sub-headings to cover more combinations.
+
+<!--1.  **Specific** - you should mention not only the technology you're working with (Angular, React, etc), but also the particular sub-topic.-->
+
+Each word and the order of words can have dramatic implications. Consider:
+
+*Title 1* 
+> "Tic Tac Toe! Scope in Directives: Transclusion Scope, Template Scope for Angular"
+
+*Title 2*
+> "Transclusion and Template Scope in AngularJS Directives Demystified
+
+**Tip 1** Avoid wasting words that are not relevant to the software aspects
+you are exploring that would never be used to lead a user searching for what
+your content covers. `Tick Tac Toe!` will send someone to a games website and
+is essentially a waste of characters that could have been used to be found by
+another phrase.
+
+**Tip 2** Google sees combinations of sub-phrases by removing / including words.
+- *Title 1* yields key-phrases:
+  - By obvious sub-strings:
+    - "Transclusion Scope"
+    - "Template Scope for Angular" 
+  - By removal of words:
+    - "Scope Directives" 
+    - "Directive Angular"
+  - By repetition:
+    - 3 x "Scope Angular"
+    - 2 x "Scope Template"
+    - 1 x "Scope Directives"
+    - 2 x "Directive Scope"
+- *Title 2* yields key-phrases:
+  - By obvious sub-strings:
+    - "Template Scope in Angular" 
+    - "Scope in AngularJS"     
+    - "Scope in AngularJS Directives" 
+    - "AngularJS Directives" 
+  - By removal of words:
+    - "Transclusion Scope in AngularJS" 
+    - "Template Scope in AngularJS" 
+    - "Transclusion in AngularJS Directives"
+    - 1 x "Transclusion Scope"
+    - 1 x "Template Scope"
+  - No repetition
+
+**Tip 3** 1 Try to incorporate eye-catching words that evoke the value proposition 
+of the post.
+
+<!-- TODO, give examples of eye-catching words-->
+
 
 ### 3.2 Original content
 
@@ -172,21 +234,7 @@ English before you submit.
 Unless you go viral, **90% of readers will arrive at your post via a search engine**. Both the platform and structure outlined here, have evolved to 
 optimize SEO and retaining short attention spans. 
 
-#### 3.6.1 Title
-
-Make sure to select a good title.  Good titles are:
-
-1.  **Specific** - you should mention not only the technology you're working with (Angular, React, etc), but also the particular sub-topic.
-
-2.  **Eye-catching** - try to incorporate words that evoke the value proposition of the post.
-
-
-**Okay title**:  Scope in Angular Directives
-
-**Better title**:  Transclusion and Template Scope in Angular Directives Demystified
-
-
-#### 3.6.2 Synopsis
+#### 3.6.1 Synopsis
 
 At the top of your post include a summary introducing the top-level idea, 
 content format and who the post is relevant for (i.e. level of developer / 
@@ -204,7 +252,7 @@ top 20% of posts at airpair.com/posts
 get viewed on average more than 150,000 times within 12 months!
 ````
 
-#### 3.6.3 Links
+#### 3.6.2 Links
 
 airpair.com gets crawled many times per day. **Properly prefix links with `http(s)://`** to avoid driving jk crazy with 404 notifications.
 
@@ -218,7 +266,7 @@ increase engagement.
 the sooner most readers will click off your posts and not come back. Utilize &lt;sup&gt;&lt;/sup&gt; tags to reduce link surface and move the exit paths
 down to the auto-genearted *References* section at the bottom of your post.
 
-#### 3.6.4 ToC, headings and subheadings
+#### 3.6.3 ToC, headings and subheadings
 
 The Table of Contents (ToC) widget automatically grabs headings ( **\#\#** / **\#\#\#** / **\#\#\#\#** ) out of your markdown and renders them down the
 right hand side of your post as table of links enabling the user to 
@@ -267,7 +315,7 @@ If you choose to number sections in your post, copy the format in this post.
 ** 3.6.3.4 Gotcha's**  
 1. Try avoid headings (especially h1) in code-samples when possible.
 
-#### 3.6.5 Code samples
+#### 3.6.4 Code samples
 
 Tripple check all code runs before submitting your post. Readers are often
 already overwhelmed and frustrated learning the subject matter. Commonly they 
@@ -291,13 +339,13 @@ Nice colors!
 </example>
 ```
 
-#### 3.6.4 Media
+#### 3.6.5 Media
 
-** 3.6.4.1 *https* **  
+** 3.6.5.1 *https* **  
 Prefixed ALL image urls with `https` and NOT `http` or readers will get 
 insecure warnings from their browser.
 
-** 3.6.4.2 *Tile images* **  
+** 3.6.5.2 *Tile images* **  
 The relevance, clarity and professionalism of the main tile image used to represent a post is VERY important. The tile image gets used not only in
 the header of a post, but in the "tiles" list view of the Posts section,
 tagged collections of posts, (eventually) on your AirPair profile,
