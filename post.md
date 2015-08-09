@@ -1,43 +1,42 @@
 Synopsis
 > So you're interested in blogging? `{<3}` **Thank you** for 
 considering AirPair a home to share your creativity and knowledge. The 
-top 20% of posts on airpair.com <sup>[AirPair Posts](https://www.airpair.com/posts) Section (at airpair.com/posts)</sup>
+top 20% of posts on airpair.com<sup>[AirPair Posts](https://www.airpair.com/posts) Section (at airpair.com/posts)</sup>
 get viewed on average more than 150,000 times within 12 months! Publishing
 top content rarely comes with instant gratification. 40% of
 posts submitted to the `community review` process do not make it
 through to published. This guide includes background, guidelines 
 and tips to best leverage community help to improve your post's ratings
-and ultimately attract more readers. Developers of all levels of writing
-beginner through advanced topics are welcome. **Read this guide in full
-BEFORE submitting your post to the community.**
+and ultimately attract more readers. Developers of all levels are welcome to
+contribute beginner through advanced content. **Read this guide in full BEFORE submitting posts to the community.**
 
 ## 1. Community values
 
 AirPair's mission is to share software knowledge. In our verbiage, being 
-an *"expert"* does not necessarily involve mastering "cutting-edge" knowledge. 
-An *AirPair Expert* is about attaining enough proficiency in both *technical knowledge* and *expression* to effectively communicate and teach beginner 
-or advanced concepts.
+an *"expert"* does not necessarily involve mastering cutting-edge knowledge. 
+An *AirPair Expert* is someone who has attained enough proficiency in both 
+*technical knowledge* and *expression* to effectively communicate and teach 
+a concept of any difficulty from beginner through advanced.
 
-Advantages of publishing on AirPair include *(1)* positioning yourself to get 
-hired to consult around knowledge you present and *(2)* connecting with 
-other experts in your domain that want to share similar passions by helping
-refine and evolve your posts.
+Advantages of publishing on AirPair include *(1)* positioning yourself as an 
+Expert available to consult on the knowledge you present and *(2)* connecting
+with other experts in your domain that want to share similar passions by 
+helping refine and evolve your posts.
 
 Publishing on AirPair is as much about learning through helping as learning 
 through help. When deciding to publish here, you should be intersted in more 
-than your own posts and either *(a)* be wanting to help others at least a few 
-hours each month over live Airpair pair programming sessions or *(b)* already
-reviewing posts by others.
+than your own posts and either *(a)* be wanting to help others over (paid) live 
+pair programming sessions or *(b)* already reviewing posts by others.
 
 ## 2. An evolution in progress
 
 ### 2.1 Platform
 
-AirPair Post Section <sup>1</sup> is one of fastest growing and most 
+AirPair's Post Section<sup>1</sup> is one of fastest growing and most 
 trafficked software blogs ever. That said, we recognize our tooling as 
 half complete and due for more polish. Most folks perceive AirPair 
 as big company. It's acutally run with lots of love `{<3}` by one person.
-The authoring features usually get a wave of attenion every 3-6 months.
+The authoring features get a wave of attenion every 3-6 months.
 
 ### 2.2 Community etiquette
 
@@ -72,11 +71,10 @@ praise.
 
 *Last updated Aug 8, 2015*
 
-When you start feeling your post is starting to look good enough to be seen by 
-others, it's time to familiarize and incorporate the guidelines of this section
-into your post. It's rare for folks to deeply review posts more than once. 
-To get the most creative input, avoid reviewers having to point out things 
-already covered here.
+When you feel your post is beginning to look good enough for others, it's time 
+to familiarize and incorporate the guidelines of this section. It's rare for
+folks to deeply review posts more than once. To get the most creative input, 
+avoid reviewers having to point out things already covered here.
 
 ### 3.1 Content format & topics
 
@@ -87,8 +85,8 @@ already covered here.
  the Q/A format and types of questions accepted by the community.-->
 
 The AirPair blog is focused on long form technical blog posts ideally
-ranging from 1500-4000 words (including code blocks), though some all-time 
-highest trafficked post have been between 10,000-15,000 words.
+ranging from 1500-4000 words (including code blocks), though some of our
+all-time high trafficking posts were a long as 10,000-15,000 words.
 
 #### 3.1.2 Post types
 
@@ -104,17 +102,17 @@ or reviews of new technologies and software services.
 
 #### 3.1.3 Settling on a topic
 
-Post must be about software and which includes both programming and 
-non-programming software-related disciplines like UX, Design, Marketing, 
-through to running a Software Business or Startup etc.
+Posts must be about software! Content covering programming and non-programming 
+software-related disciplines including but not limited to UX, Design, Marketing 
+and running Software Business are accepted.
 
-You are encouraged to **let your passions primarily guide topic choice** as we
-feel this is where creativity and originality (our higest values) are best
-exersized.
+We value creativity and originality most and thus encourage you **let your passions primarily guide topic choice** as we feel this is where the magic
+happens most.
 
-Both aimining to appeal to the masses or focus on something niche to strike very 
-deep with a few are good approaches. Just make sure enough people understand 
-and care about your topic to pass community review and get published.
+Both *(i)* aimining to appeal to the masses and *(ii)* focusing on something 
+niche to strike very deep with a few are good approaches. Just make sure enough 
+you can find at least 3 reviewers who understand and care about your topic to
+pass community review and get published. 
 
 #### 3.1.4 Choosing a title
 
@@ -400,22 +398,52 @@ FreeImages.com<sup>[freeimages.com](http://www.freeimages.com/) is a good first 
 list view so place more importance on the top parts vs bottom parts of your
 image.
 
-<!-- ## ? Reviews -->
+4 Getting reviews
+
+4.1 Who should review your post
+
+4.2 Gaming ratings
+
+Do not ask friends lacking knowledge on your posts subject matter to review 
+your post. 
+
+Ratings are the communities way of acknowledging exceptional contributions. 
+Consistent and fair ratings is a plaform priority. We have and will continue
+to remove posts and ban authors gaming ratings in any way.
 
 <!-- ## ? Git Publishing -->
 
 <!-- ## ? Forking -->
 
-## 6. Random idiosyncrasies
+## 6. W.I.P. Idiosyncrasies
 
-- **New lines in the editor**. At some point we tried to get the editor to
+*Section last updated 08 Aug, 2015*
+
+Most things in this section are a result of the work in progress nature of
+the platform and will disappear over time. They are quite important to be 
+aware of.
+
+### 6.1 Merge as quickly as possible
+
+Acknowleding contributions is an important community etiquette. Eventually all
+contributions and updated dates will be displayed on each post. 
+
+The AirPair Editor is not yet capable of handling more than basic forking 
+scenarios. Things like merge conflicts will make the effort of accepting and  acknowledging contributions too high. 
+
+**Tip** The easiest approach is to merge a contribution even if it's only 90% 
+there and add the last 10% of polish yourself on top of their commit.
+
+### 6.2 New lines on tracking contributions with git 
+At one point we tried to get the editor to
 auto generate new lines after 80 characters, but things went wrong and we'll
 try again. A good practice is to manually add new lines just before the gray
 line on the right edge of the editor. Without new lines, edits made by 
 contributors will be difficult to see as git may track a whole paragraph 
 instead of an 80 char chunk for simple spelling corrections.
 
-- **If a supported language is not syntax highlighting**, email team at 
+### 6.3 A language not correctly syntax highlighting
+email team at 
 airpair, as it could be recently added or intentially not yet included in our 
 custom build because we didn't want users downloading 100's of Kbs of un-used
 language packs. 
@@ -423,6 +451,4 @@ language packs.
 <!--- **href Target blanks**-->
 
 <!--- **Slugs**-->
-
-<!--- **Merge fast**-->
 
