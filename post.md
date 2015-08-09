@@ -126,8 +126,10 @@ For reasons spanning UX, engagement / comprehension, SEO, Social Sharing and
 GitHub constraints, **post titles *(h1 element)* should be less than 50 chars**.
 
 Mention at least the main technology if not multiple technologies you are
-exploring in full (e.g. `AngularJS` is better than `Angular`), though you should
-it up in your sub-headings to cover more combinations.
+exploring as it is officially referred to (e.g. `AngularJS` is better than 
+`Angular`, but `Meteor` is better thn `MeteorJS`). You are encouraged to mix
+it up with as many variations use in your post and headings / sub-headings 
+to cover more combinations.
 
 <!--1.  **Specific** - you should mention not only the technology you're working with (Angular, React, etc), but also the particular sub-topic.-->
 
