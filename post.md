@@ -78,7 +78,7 @@ into your post. It's rare for folks to deeply review posts more than once.
 To get the most creative input, avoid reviewers having to point out things 
 already covered here.
 
-### 3.1 Content format & topic requirements
+### 3.1 Content format & topics
 
 #### 3.1.1 Long form posts
 
@@ -89,7 +89,7 @@ already covered here.
 The AirPair blog is focused on long form technical blog posts ideally
 ranging from 1500-4000 words (including code blocks), though some all-time highest trafficked post have been between 10,000-15,000 words.
 
-#### 3.1.2 Post types and topics
+#### 3.1.2 Post types
 
 Posts usually fall into one of these `types`:
 
@@ -101,13 +101,21 @@ Posts usually fall into one of these `types`:
 - **Opinion piece** on *anything software* from academia to community activity
 or reviews of new technologies and software services.
 
-As long as a post is about software (including programming and non-programming disciplines like UX, Internet Marketing, Experience running a Software 
-Business etc.), we encourage you to let your passions primarily guide topic
-choice. We don't mind if you aim to appeal to the masses or focus on something
-niche to strike very deep with a few. Just make sure people understand and care
-about your topic to get enough ratings to pass community review and get published.
+#### 3.1.3 Settling on a topic
 
-#### 3.1.3 Choosing a title
+Post must be about software and which includes both programming and 
+non-programming software-related disciplines like UX, Design, Marketing, 
+through to running a Software Business or Startup etc.
+
+You are encouraged to **let your passions primarily guide topic choice** as we
+feel this is where creativity and originality (our higest values) are best
+exersized.
+
+Both aimining to appeal to the masses or focus on something niche to strike very 
+deep with a few are good approaches. Just make sure enough people understand 
+and care about your topic to pass community review and get published.
+
+#### 3.1.4 Choosing a title
 
 The title is the most important part of a post. Every charcater is 100x more 
 imporant that one in the actual post and can be the difference between being
@@ -163,7 +171,7 @@ another phrase.
     - 1 x "Template Scope"
   - No repetition
 
-**Tip 3** 1 Try to incorporate eye-catching words that evoke the value proposition 
+**Tip 3** Try to incorporate eye-catching words that evoke the value proposition 
 of the post.
 
 <!-- TODO, give examples of eye-catching words-->
