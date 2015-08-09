@@ -87,7 +87,8 @@ already covered here.
  the Q/A format and types of questions accepted by the community.-->
 
 The AirPair blog is focused on long form technical blog posts ideally
-ranging from 1500-4000 words (including code blocks), though some all-time highest trafficked post have been between 10,000-15,000 words.
+ranging from 1500-4000 words (including code blocks), though some all-time 
+highest trafficked post have been between 10,000-15,000 words.
 
 #### 3.1.2 Post types
 
@@ -213,7 +214,6 @@ this guide, we pay a lot of attenion to detail, including visual aspects.
 Sticking to pure markdown and avoiding hybrid html and inline css where 
 possible is the easiest way to keep things clean. 
 
-
 **Tip 1** Author in the AirPair Editor from the get go. Live rending feedback 
 will help you think about formatting and see things as you write.
 - - -
@@ -223,7 +223,7 @@ as you go to stop your browser hanging. To make the rendering panel refresh at
 will focus on the panel by clicking on it.
 - - -
 **Tip 3** Become a markdown master
-<sup>Mastering Markdown takes an hour with the (Darling Fireball Guide)[http://daringfireball.net/projects/markdown/basics]</sup> and explore 
+<sup>Master Markdown in an hour with the [Darling Fireball Guide](http://daringfireball.net/projects/markdown/basics)</sup> and explore 
 elements like images, ordered / unordered lists, code blocks, blockquotes,
 **bold** / *italic* font, horizontal rules and line breaks to create 'white
 space'. Long blocks of text can be visually hard to digestable and cause 
@@ -275,16 +275,19 @@ increase engagement.
 **Tip 1** Double check all links by clicking them from the full preview view.
 - - -
 **Tip 2** The more links included in your post, particularly towards the top, 
-the sooner most readers will click off your posts and not come back. Utilize &lt;sup&gt;&lt;/sup&gt; tags to reduce link surface and move the exit paths
+the sooner most readers will click off your posts and not come back. Utilize 
+&lt;sup&gt;&lt;/sup&gt; tags to reduce link surface and move the exit paths
 down to the auto-genearted *References* section at the bottom of your post.
 
 #### 3.6.3 ToC, headings and subheadings
 
-The Table of Contents (ToC) widget automatically grabs headings ( **\#\#** / **\#\#\#** / **\#\#\#\#** ) out of your markdown and renders them down the
-right hand side of your post as table of links enabling the user to 
+The Table of Contents (ToC) widget automatically grabs headings 
+( **\#\#** / **\#\#\#** / **\#\#\#\#** ) out of your markdown and renders them 
+down the right hand side of your post as table of links enabling the user to 
 immmediately seek to any given section. 
 
-Headings are extremely important and one of the drivers of AirPairs search traffic success so pay attention!
+Headings are extremely important and one of the drivers of AirPairs search 
+traffic success so pay attention!
 
 ** 3.6.3.1 *One (`h1`) heading to rule them all!* **  
 h1s (**#**) should NOT appear in your post markdown. Correct HTML includes a
@@ -302,7 +305,8 @@ help readers find your post using search engines and quickly seek to the
 relevant content before giving up when unsure if the effort to scan your post
 is worth it.
 
-**Tip 1** Avoid headings like "Introduction", "Conclusion", "Step 1", "Getting Started" that will inhibit the content in those sections being found.
+**Tip 1** Avoid headings like "Introduction", "Conclusion", "Step 1", "Getting 
+Started" that will inhibit the content in those sections being found.
 - - -
 **Tip 2** Think about what readers would type to find each section
 in isolation. This will dramatically help your consitent the overall structure 
@@ -311,7 +315,8 @@ concepts under their's own headings.
 
 ** 3.6.3.2 *ToC and heading lengths* **  
 A ToC should be short enough that it's container element does not render in
-css auto-scroll mode. To keep your ToC a reasonable height, don't have more than one or two long headings spaning multiple lines in the ToC widget. 
+css auto-scroll mode. To keep your ToC a reasonable height, don't have more than 
+one or two long headings spaning multiple lines in the ToC widget. 
 
 **Tip 1** Use psuedo headings (Like in this section) instead of h5 and h6.
 - - -
@@ -335,8 +340,9 @@ ignore how great your post is and leave negative comments if they
 loose time when code doesn't run unsure if it's your code sample or them doing
 something wrong.  
 
-**Supported language <sup>Languages supported by [the prism syntax highlighting plugin](http://prismjs.com/#languages-list)</sup> code samples MUST be correctly syntax highlighted**. ***Tip 1*** If it's not highlighting in the 
-AirPair Editior, it won't highlight when published. *** Tip 2 *** A common confusion is the use of `markup` as the key to hightlight html. `markup`
+**Supported language <sup>Languages supported by the [Prism syntax highlighting plugin](http://prismjs.com/#languages-list)</sup> code samples MUST be correctly syntax highlighted**. ***Tip 1*** If it's not highlighting in the 
+AirPair Editior, it won't highlight when published. *** Tip 2 *** A common 
+confusion is the use of `markup` as the key to hightlight html. `markup`
 can also be used for xml - hence the name ;).
 
 <pre>&#39;&#39;&#39;&#39;markup
@@ -358,7 +364,8 @@ Prefixed ALL image urls with `https` and NOT `http` or readers will get
 insecure warnings from their browser.
 
 ** 3.6.5.2 *Tile images* **  
-The relevance, clarity and professionalism of the main tile image used to represent a post is VERY important. The tile image gets used not only in
+The relevance, clarity and professionalism of the main tile image used to 
+represent a post is VERY important. The tile image gets used not only in
 the header of a post, but in the "tiles" list view of the Posts section,
 tagged collections of posts, (eventually) on your AirPair profile,
 in sharing to facebook & linkedIn via the `ogImage` tag, tweets by @airpair
@@ -371,16 +378,23 @@ Potential readers will judge pre-judge your post similar to the way people
 2. Use a solid color or pattern as the images background.
 3. Incorporate one logo or even multiple logos of the technilogies
 being explored in your content.
-4. Optionally incorporate the airpair logo <sup>AirPair logo uploaded to an [issue for this posts's repo](https://github.com/airpair/authoring-guide/issues/1)</sup>
+4. Optionally incorporate the airpair logo <sup>AirPair logo uploaded and accessible by `https` via an [issue of this post's repo](https://github.com/airpair/authoring-guide/issues/1)</sup>
 5. Host your image somewhere that supports https. imgur, github.io or even
 the issues section of the repo created for your post as good options.
-6. The image size and dimensions should be large enough for social
+6. Tile size and dimensions should be large enough for social
 sharing, but not too big to take un-necessarily bandwidth and time to load.
-Facebook App Tiles (810x450) make a happy medium.  Must be over 640px in width, so that it will be flush with the width of the post.
+Facebook App Tiles (810x450) make a happy medium. 
+7. Minimum of 640px in width is required to flush in line with the width of 
+the post's body.
 
-** Tip 1 ** Use a tool like Canva<sup>[canva.com](https://www.canva.com)</sup>, it's a fast way to create images in a browser. You can even start from their "Facebook App" template to get the right dimensions. Going forward, you can also upload your images, and should you need high-quality free images try FreeImages.com<sup>[freeimages.com](http://www.freeimages.com/)</sup>.
+** Tip 1 ** Use a tool like Canva<sup>[canva.com](https://www.canva.com) is a web based graphics tool for creating share friendly images</sup>, 
+it's a fast way to create images in a browser. You can even start from their 
+"Facebook App" template to get the right dimensions. 
 - - -
-** Tip 2 ** Often the bottoms of tile images get cut off when shown in the 
+** Tip 2 ** Should you need high-quality free images try
+FreeImages.com<sup>[freeimages.com](http://www.freeimages.com/) is a good first stop for royalty free stock images</sup>.
+- - -
+** Tip 3 ** Often the bottoms of tile images get cut off when shown in the 
 list view so place more importance on the top parts vs bottom parts of your
 image.
 
