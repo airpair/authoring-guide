@@ -398,7 +398,7 @@ FreeImages.com<sup>[freeimages.com](http://www.freeimages.com/) is a good first 
 list view so place more importance on the top parts vs bottom parts of your
 image.
 
-## 4 Getting reviews and rating
+## 4 Getting reviews and publishing
 
 ### 4.1 Who should review
 
@@ -424,6 +424,16 @@ posts topic.
 Ratings are the community's way of acknowledging exceptional contributions. 
 Consistent and fair ratings is a plaform priority. We have and will continue
 to remove posts and ban users gaming ratings in any way.
+
+### 4.4 When to publish
+
+You can self publish once you have 3 or more reviews with an average of 4/5 
+stars or more. 
+
+**Tip** Once you think your post is complete and ready to go live, step away
+for 2 days leaving your post in review, befire coming back and reading one
+more time from start to end. You'll almost always spot something you want to
+improve before pulling the trigger.
 
 <!-- ## ? Git Publishing -->
 
