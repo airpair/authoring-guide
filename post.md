@@ -143,8 +143,11 @@ you are exploring that would never be used to lead a user searching for what
 your content covers. `Tick Tac Toe!` will send someone to a games website and
 is essentially a waste of characters that could have been used to be found by
 another phrase.
-
-**Tip 2** Google sees combinations of sub-phrases by removing / including words.
+- - -
+**Tip 2** Google sees combinations of sub-phrases by removing / including 
+words. The same words in differnt orders are NOT equal. It's best to aim
+more common and official ways words are ordered (e.g. in framework docs/guides). 
+So "AngularJS Directives" is more powerful than "Directives AngularJS".
 - *Title 1* yields key-phrases:
   - By obvious sub-strings:
     - "Transclusion Scope"
@@ -170,7 +173,7 @@ another phrase.
     - 1 x "Transclusion Scope"
     - 1 x "Template Scope"
   - No repetition
-
+- - -
 **Tip 3** Try to incorporate eye-catching words that evoke the value proposition 
 of the post.
 
