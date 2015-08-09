@@ -316,7 +316,7 @@ being explored in your content.
 the issues section of the repo created for your post as good options.
 6. The image size and dimensions should be large enough for social
 sharing, but not too big to take un-necessarily bandwidth and time to load.
-Facebook App Tiles (810x450) make a happy medium.
+Facebook App Tiles (810x450) make a happy medium.  Must be over 640px in width, so that it will be flush with the width of the post.
 
 ** Tip 1 ** Use a tool like Canva<sup>[canva.com](https://www.canva.com)</sup>, it's a fast way to create images in a browser. You can even start from their "Facebook App" template to get the right dimensions. Going forward, you can also upload your images, and should you need high-quality free images try FreeImages.com<sup>[freeimages.com](http://www.freeimages.com/)</sup>.
 - - -
