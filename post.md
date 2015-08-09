@@ -28,7 +28,7 @@ through help. When deciding to publish here, you should be intersted in more
 than your own posts and either *(a)* be wanting to help others over (paid) live 
 pair programming sessions or *(b)* already reviewing posts by others.
 
-## 2. An evolution in progress
+## 2. Evolution in progress
 
 ### 2.1 Platform
 
@@ -78,13 +78,13 @@ avoid reviewers having to point out things already covered here.
 
 ### 3.1 Content format & topics
 
-#### 3.1.1 Long form posts
+#### 3.1.1 Long form
 
 <!-- Many different written formats conduct software knowledge successfully. One
  reason StackOverflow became successful was discipline and consistency around
  the Q/A format and types of questions accepted by the community.-->
 
-The AirPair blog is focused on long form technical blog posts ideally
+The AirPair Posts Section is focused on long form technical blog posts ideally
 ranging from 1500-4000 words (including code blocks), though some of our
 all-time high trafficking posts were a long as 10,000-15,000 words.
 
@@ -400,7 +400,7 @@ image.
 
 ## 4 Getting reviews and publishing
 
-### 4.1 Who should review
+### 4.1 Who should and shouldn't review
 
 The people reviewing your post should have enough technical knowledge on your
 subject matter compehend the accuracy of your post and formulate genuine
@@ -416,8 +416,6 @@ your topic subject matter.
 powerful way of personal networking and very beneficial to growing our 
 community.
 
-### 4.2 Who shouldn't review
-
 Do not ask friends to review your post unless they are also an expert on your
 posts topic.
 
@@ -425,7 +423,7 @@ Ratings are the community's way of acknowledging exceptional contributions.
 Consistent and fair ratings is a plaform priority. We have and will continue
 to remove posts and ban users gaming ratings in any way.
 
-### 4.4 When to publish
+### 4.2 When to publish
 
 You can self publish once you have 3 or more reviews with an average of 4/5 
 stars or more. 
