@@ -247,14 +247,15 @@ optimize SEO and retaining short attention spans.
 
 #### 3.6.1 Synopsis
 
-At the top of your post include a summary introducing the top-level idea, 
-content format and who the post is relevant for (i.e. level of developer / 
-prerequisite knowledge). In 30 seconds readers should know if the post is 
-what they are seeking and relevant to their experience.
+At the top of your post **include a 1 pargraph summary** nested inside a 
+blockquote (`>`) introducing the top-level idea, content format and who the 
+post is relevant for (i.e. level of developer / prerequisite knowledge). 
+Readers should know in 30 seconds if a post is what they are seeking 
+and relevant to their experience.
 
-The synopsis falls out of the Table of Contents (ToC) and the word *Synopsis* is 
-considered a *pseudo heading* i.e. only a heading in the visual sense. Here is 
-some example markdown for a synopsis:
+The synopsis falls out of the Table of Contents (ToC) and the word *Synopsis* 
+is considered a *pseudo heading* i.e. only a heading in the visual sense.
+Here is some example markdown for a synopsis:
 ````markdown
 Synopsis
 > So you're interested in blogging? **Thank you** for 
