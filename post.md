@@ -398,18 +398,32 @@ FreeImages.com<sup>[freeimages.com](http://www.freeimages.com/) is a good first 
 list view so place more importance on the top parts vs bottom parts of your
 image.
 
-4 Getting reviews
+## 4 Getting reviews and rating
 
-4.1 Who should review your post
+### 4.1 Who should review
 
-4.2 Gaming ratings
+The people reviewing your post should have enough technical knowledge on your
+subject matter compehend the accuracy of your post and formulate genuine
+feedback and insight.
 
-Do not ask friends lacking knowledge on your posts subject matter to review 
-your post. 
+If your topic is broad, it's possible enough community peers will review your
+post without effort on your end. If you don't have enough reviews you can 
+tweet asking the public to look at your post. If you topic is niche, you may 
+have do some email outreach to other bloggers coming up in google around 
+your topic subject matter. 
 
-Ratings are the communities way of acknowledging exceptional contributions. 
+** Tip ** Email outreach on the topic of sharing high quality work is a very
+powerful way of personal networking and very beneficial to growing our 
+community.
+
+### 4.2 Who shouldn't review
+
+Do not ask friends to review your post unless they are also an expert on your
+posts topic.
+
+Ratings are the community's way of acknowledging exceptional contributions. 
 Consistent and fair ratings is a plaform priority. We have and will continue
-to remove posts and ban authors gaming ratings in any way.
+to remove posts and ban users gaming ratings in any way.
 
 <!-- ## ? Git Publishing -->
 
