@@ -10,7 +10,7 @@ and tips to best leverage community help to improve your post's ratings
 and ultimately attract more readers. Developers of all levels are welcome to
 contribute beginner through advanced content. **Read this guide in full BEFORE submitting posts to the community.**
 
-## 1. Community values
+## 1 Community values
 
 AirPair's mission is to share software knowledge. In our verbiage, being 
 an *"expert"* does not necessarily involve mastering cutting-edge knowledge. 
@@ -28,7 +28,7 @@ through help. When deciding to publish here, you should be intersted in more
 than your own posts and either *(a)* be wanting to help others over (paid) live 
 pair programming sessions or *(b)* already reviewing posts by others.
 
-## 2. Evolution in progress
+## 2 Evolution in progress
 
 ### 2.1 Platform
 
@@ -67,7 +67,7 @@ reviewer know. They are able to update both their rating and comment at any
 time and will likely increase the stars given and replace previous critque with
 praise.
 
-## 3. Submission guidelines
+## 3 Submission guidelines
 
 *Last updated Aug 8, 2015*
 
@@ -431,7 +431,7 @@ improve before pulling the trigger.
 
 <!-- ## ? Forking -->
 
-## 6. W.I.P. Idiosyncrasies
+## 6 W.I.P. Idiosyncrasies
 
 *Section last updated 08 Aug, 2015*
 
