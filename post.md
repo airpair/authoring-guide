@@ -36,7 +36,7 @@ AirPair's Post Section<sup>1</sup> is one of fastest growing and most
 trafficked software blogs ever. That said, we recognize our tooling as 
 half complete and due for more polish. Most folks perceive AirPair 
 as big company. It's actually run with lots of love `{<3}` by one person.
-The authoring features get a wave of attenion every 3-6 months.
+The authoring features get a wave of attention every 3-6 months.
 
 ### 2.2 Community etiquette
 
@@ -210,28 +210,26 @@ guidelines:
 ### 3.4 Formatting 
 
 Posts should appear professionally formatted. You can tell by the length of 
-this guide, we pay a lot of attenion to detail, including visual aspects. 
+this guide, we pay a lot of attention to detail, including visual aspects. 
 Sticking to pure markdown and avoiding hybrid html and inline css where 
 possible is the easiest way to keep things clean. 
 
-**Tip 1** Author in the AirPair Editor from the get go. Live rending feedback 
-will help you think about formatting and see things as you write.
+**Tip 1** Author in the AirPair Editor from the get go. Live rendering will help you think about formatting and see things as you write.
 - - -
 **Tip 2** The AirPair Editor rendering panel is debounced according to 
-how long your post is. At the start it refeshes almost instantly and slows 
-as you go to stop your browser hanging. To make the rendering panel refresh at
+how long your post is. At the start it refreshes almost instantly and updates less frequently as you go to stop your browser from hanging. To make the rendering panel refresh at
 will focus on the panel by clicking on it.
 - - -
 **Tip 3** Become a markdown master
 <sup>Master Markdown in an hour with the [Darling Fireball Guide](http://daringfireball.net/projects/markdown/basics)</sup> and explore 
 elements like images, ordered / unordered lists, code blocks, blockquotes,
 **bold** / *italic* font, horizontal rules and line breaks to create 'white
-space'. Long blocks of text can be visually hard to digestable and cause 
+space'. Long blocks of text can be visually hard to digestible and cause 
 readers to give up and bounce.
 
 ### 3.5 Language
 
-Refrain from coarse language and questionable socio-cultural statements,
+Refrain from using coarse language and questionable socio-cultural statements,
 including sexist and racist remarks.
 
 Check spelling and grammar. As a guide there should be no more than
@@ -247,7 +245,7 @@ optimize SEO and retaining short attention spans.
 
 #### 3.6.1 Synopsis
 
-At the top of your post **include a 1 pargraph summary** nested inside a 
+At the top of your post **include a 1 paragraph summary** nested inside a 
 blockquote (`>`) introducing the top-level idea, content format and who the 
 post is relevant for (i.e. level of developer / prerequisite knowledge). 
 Readers should know in 30 seconds if a post is what they are seeking 
@@ -277,14 +275,14 @@ increase engagement.
 **Tip 2** The more links included in your post, particularly towards the top, 
 the sooner most readers will click off your posts and not come back. Utilize 
 &lt;sup&gt;&lt;/sup&gt; tags to reduce link surface and move the exit paths
-down to the auto-genearted *References* section at the bottom of your post.
+down to the auto-generated *References* section at the bottom of your post.
 
 #### 3.6.3 ToC, headings and subheadings
 
 The Table of Contents (ToC) widget automatically grabs headings 
 ( **\#\#** / **\#\#\#** / **\#\#\#\#** ) out of your markdown and renders them 
 down the right hand side of your post as table of links enabling the user to 
-immmediately seek to any given section. 
+immediately seek to any given section. 
 
 Headings are extremely important and one of the drivers of AirPair's search 
 traffic success so pay attention!
@@ -296,7 +294,7 @@ negatively impact your post's SEO.
 
 **3.6.3.2 *Optimize for search and seek* **  
 Your post will probably be on one of many tabs a reader seeks through as they 
-Google for instant gratification. Top posts provide both wholistic
+Google for instant gratification. Top posts provide both holistic
 value and compartmentalized value in each section when considered in isolation. 
 
 Readers often search for VERY specific things and one section in your post 
@@ -313,7 +311,7 @@ in isolation. This will dramatically help the consistency and overall structure
 of your post and identify when it may be better to split out multiple
 concepts under their own headings.
 
-** 3.6.3.2 *ToC and heading lengths* **  
+** 3.6.3.3 *ToC and heading lengths* **  
 A ToC should be short enough that it's container element does not render in
 css auto-scroll mode. To keep your ToC a reasonable height, don't have more than 
 one or two long headings spaning multiple lines in the ToC widget. 
@@ -321,7 +319,7 @@ one or two long headings spaning multiple lines in the ToC widget.
 **Tip 1** Use psuedo headings (Like in this section) instead of h5 and h6.
 - - -
 **Tip 2** Consider breaking a post into multiple parts if you can't figure
-out how to keep the ToC a resonable length.
+out how to keep the ToC a reasonable length.
 
 
 ** 3.6.3.4 *Numbering format* **  
@@ -341,8 +339,8 @@ lose time when code doesn't run unsure if it's your code sample or them doing
 something wrong.  
 
 **Supported language <sup>Languages supported by the [Prism syntax highlighting plugin](http://prismjs.com/#languages-list)</sup> code samples MUST be correctly syntax highlighted**. ***Tip 1*** If it's not highlighting in the 
-AirPair Editior, it won't highlight when published. *** Tip 2 *** A common 
-confusion is the use of `markup` as the key to hightlight html. `markup`
+AirPair Editor, it won't highlight when published. *** Tip 2 *** A common 
+confusion is the use of `markup` as the key to highlight html. `markup`
 can also be used for xml - hence the name ;).
 
 <pre>&#39;&#39;&#39;&#39;markup
@@ -378,7 +376,7 @@ Potential readers will prematurely judge your post similar to the way people
 2. Use a solid color or pattern as the images background.
 3. Incorporate one logo or even multiple logos of the technologies
 being explored in your content.
-4. Optionally incorporate the airpair logo <sup>AirPair logo uploaded and accessible by `https` via an [issue of this post's repo](https://github.com/airpair/authoring-guide/issues/1)</sup>
+4. Optionally incorporate the AirPair logo <sup>AirPair logo uploaded and accessible by `https` via an [issue of this post's repo](https://github.com/airpair/authoring-guide/issues/1)</sup>
 5. Host your image somewhere that supports https. imgur, github.io or even
 the issues section of the repo created for your post as good options.
 6. Tile size and dimensions should be large enough for social
@@ -403,7 +401,7 @@ image.
 ### 4.1 Who should review
 
 People reviewing your post should have sufficient technical knowledge to
-compehend the accuracy of your post and formulate genuine feedback and insight.
+comprehend the accuracy of your post and formulate genuine feedback and insight.
 
 If your topic is broad, enough community members will likely review without
 any action. If you don't get enough reviews you can tweet to the public to look
@@ -441,7 +439,7 @@ aware of.
 
 ### 6.1 Merge quickly
 
-Acknowleding contributions is an important community etiquette. Eventually all
+Acknowledging contributions is an important community etiquette. Eventually all
 contributions and updated dates will be displayed on each post. 
 
 The AirPair Editor is not yet capable of handling more than basic forking 
@@ -460,10 +458,7 @@ see as git may track a whole paragraph instead of an 80 char chunk for simple
 spelling corrections.
 
 ### 6.3 Syntax highlighting not working
-email team at 
-airpair, as it could be recently added or intentially not yet included in our 
-custom build because we didn't want users downloading 100's of Kbs of unused
-language packs. 
+Email team at AirPair, as it could be recently added or intentionally not yet included in our custom build because we didn't want users downloading 100's of Kbs of unused language packs. 
 
 <!--- **href Target blanks**-->
 
