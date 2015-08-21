@@ -337,7 +337,7 @@ If you choose to number sections in your post, copy the format in this post.
 Triple check all code runs before submitting your post. Readers are often
 already overwhelmed and frustrated learning the subject matter. Commonly they 
 ignore how great your post is and leave negative comments if they 
-looe time when code doesn't run unsure if it's your code sample or them doing
+lose time when code doesn't run unsure if it's your code sample or them doing
 something wrong.  
 
 **Supported language <sup>Languages supported by the [Prism syntax highlighting plugin](http://prismjs.com/#languages-list)</sup> code samples MUST be correctly syntax highlighted**. ***Tip 1*** If it's not highlighting in the 
