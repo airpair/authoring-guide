@@ -180,6 +180,18 @@ of the post.
 
 <!-- TODO, give examples of eye-catching words-->
 
+- - -
+**Tip 3** Your title is used to auto suggest a slug, which becomes the
+latter part of your post's url as well as your git repository name.
+
+<pre>
+http://www.airpair.com/express/posts/<b style="color:#c7254e">expressjs-and-passportjs-sessions-deep-dive</b>
+</pre>
+
+The url length and contents also have dramatic implications on search rankings.
+Make sure your primary technology is tagged first as it is used as the first
+part of the url (`express` in the example), and that your slug contains
+the most important key phrase that you want someone to search by.
 
 ### 3.2 Original content
 
@@ -410,7 +422,7 @@ improve before pulling the trigger.
 
 ### 4.2 Getting reviews
 
-### 4.2.1 Who should review
+**4.2.1 *Who should review* **  
 
 People reviewing your post should have sufficient technical knowledge to
 comprehend the accuracy of your post and formulate genuine feedback and insight.
@@ -431,7 +443,7 @@ powerful way of networking and very beneficial to growing our community.
 
 <!-- ## ? Forking -->
 
-## 6 W.I.P. Idiosyncrasies
+## 5 W.I.P. Idiosyncrasies
 
 *Section last updated 08 Aug, 2015*
 
@@ -439,7 +451,7 @@ Most things in this section are a result of the work in progress nature of
 the platform and will disappear over time. They are quite important to be 
 aware of.
 
-** 6.1 Merge quickly**  
+** 5.1 Merge quickly**  
 Acknowledging contributions is an important community etiquette. Eventually all
 contributions and updated dates will be displayed on each post. 
 
@@ -450,7 +462,7 @@ acknowledging contributions too high.
 **Tip** The easiest approach is to merge a contribution even if it's only 90% 
 there and add the last 10% of polish yourself on top of their commit.
 
-** 6.2 Manually add new lines**  
+** 5.2 Manually add new lines**  
 At one point we tried to get the editor to auto generate new lines after 80 
 characters, but things went wrong and we'll try again. A good practice is to
 manually add new lines just before the gray line on the right edge of the 
@@ -458,10 +470,6 @@ editor. Without new lines, edits made by contributors will be difficult to
 see as git may track a whole paragraph instead of an 80 char chunk for simple
 spelling corrections.
 
-** 6.3 Syntax highlighting not working**  
+** 5.3 Syntax highlighting not working**  
 Email team at AirPair, as it could be recently added or intentionally not yet included in our custom build because we didn't want users downloading 100's of Kbs of unused language packs. 
-
-<!--- **href Target blanks**-->
-
-<!--- **Slugs**-->
 
