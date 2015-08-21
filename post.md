@@ -35,7 +35,7 @@ pair programming sessions or *(b)* already reviewing posts by others.
 AirPair's Post Section<sup>1</sup> is one of fastest growing and most 
 trafficked software blogs ever. That said, we recognize our tooling as 
 half complete and due for more polish. Most folks perceive AirPair 
-as big company. It's acutally run with lots of love `{<3}` by one person.
+as big company. It's actually run with lots of love `{<3}` by one person.
 The authoring features get a wave of attenion every 3-6 months.
 
 ### 2.2 Community etiquette
@@ -62,9 +62,9 @@ Trolling and arguments are generally discouraged. There are no definitions or
 processes yet for inappropriate behavior. It's a good example of an area for
 the community to decide as we continue moving forward.
 
-** Tip ** if you've incorprated feedback from a review, reply to let the
+** Tip ** if you've incorporated feedback from a review, reply to let the
 reviewer know. They are able to update both their rating and comment at any 
-time and will likely increase the stars given and replace previous critque with
+time and will likely increase the stars given and replace previous critique with
 praise.
 
 ## 3 Submission guidelines
@@ -86,7 +86,7 @@ avoid reviewers having to point out things already covered here.
 
 The AirPair Posts Section is focused on long form technical blog posts ideally
 ranging from 1500-4000 words (including code blocks), though some of our
-all-time high trafficking posts were a long as 10,000-15,000 words.
+all-time high trafficking posts were as long as 10,000-15,000 words.
 
 #### 3.1.2 Post types
 
@@ -109,14 +109,14 @@ and running Software Business are accepted.
 We value creativity and originality most and thus encourage you **let your passions primarily guide topic choice** as we feel this is where the magic
 happens most.
 
-Both *(i)* aimining to appeal to the masses and *(ii)* focusing on something 
+Both *(i)* aiming to appeal to the masses and *(ii)* focusing on something 
 niche to strike very deep with a few are good approaches. Just make sure enough 
 you can find at least 3 reviewers who understand and care about your topic to
 pass community review and get published. 
 
 #### 3.1.4 Choosing a title
 
-The title is the most important part of a post. Every charcater is 100x more 
+The title is the most important part of a post. Every character is 100x more 
 imporant that one in the actual post and can be the difference between being
 at the top of search engine resuls or never being discovered at all.
 
@@ -125,8 +125,8 @@ GitHub constraints, **post titles *(h1 element)* should be less than 50 chars**.
 
 Mention at least the main technology if not multiple technologies you are
 exploring as it is officially referred to (e.g. `AngularJS` is better than 
-`Angular`, but `Meteor` is better thn `MeteorJS`). You are encouraged to mix
-it up with as many variations use in your post and headings / sub-headings 
+`Angular`, but `Meteor` is better than `MeteorJS`). You are encouraged to mix
+it up with as many variations you can use in your post and headings / sub-headings 
 to cover more combinations.
 
 <!--1.  **Specific** - you should mention not only the technology you're working with (Angular, React, etc), but also the particular sub-topic.-->
@@ -146,7 +146,7 @@ is essentially a waste of characters that could have been used to be found by
 another phrase.
 - - -
 **Tip 2** Google sees combinations of sub-phrases by removing / including 
-words. The same words in differnt orders are NOT equal. It's best to aim
+words. The same words in different orders are NOT equal. It's best to aim
 more common and official ways words are ordered (e.g. in framework docs/guides). 
 So "AngularJS Directives" is more powerful than "Directives AngularJS".
 - *Title 1* yields key-phrases:
@@ -187,11 +187,11 @@ AirPair's Posts section is for original content only. (1) Do not submit content
 already published elsewhere. (2) Even if published first on AirPair, do not
 republish your post anywhere - including your personal site. Not leaving content 
 and associated acknowledgement of community contributions exclusively on 
-airpair.com may lead to your post being taken down and possibly being banned
-publising again.
+airpair.com may lead to your post being taken down and possibly being banned from
+publishing again.
 
 Under all circumstances, copyright content will be immediately removed. 
-Google and reviewing existing posts similar titled posts before getting 
+Google and review existing posts that are similarly titled posts before getting 
 started. Posts may be removed even if they look similar to ones published 
 prior on other sites.
 
@@ -268,7 +268,7 @@ get viewed on average more than 150,000 times within 12 months!
 
 airpair.com gets crawled many times per day. **Properly prefix links with `http(s)://`** to avoid driving jk crazy with 404 notifications.
 
-As a general rule, the more links in your post, particularly up the top, the 
+As a general rule, the more links in your post, particularly up at the top, the 
 sooner readers will click off and not come back. Use links judiciously to
 increase engagement.
 
@@ -286,7 +286,7 @@ The Table of Contents (ToC) widget automatically grabs headings
 down the right hand side of your post as table of links enabling the user to 
 immmediately seek to any given section. 
 
-Headings are extremely important and one of the drivers of AirPairs search 
+Headings are extremely important and one of the drivers of AirPair's search 
 traffic success so pay attention!
 
 ** 3.6.3.1 *One (`h1`) heading to rule them all!* **  
@@ -296,10 +296,10 @@ negatively impact your post's SEO.
 
 **3.6.3.2 *Optimize for search and seek* **  
 Your post will probably be on one of many tabs a reader seeks through as they 
-google for instant gratification. Top posts provide both wholistic
+Google for instant gratification. Top posts provide both wholistic
 value and compartmentalized value in each section when considered in isolation. 
 
-Readers often searching for VERY specific things and one section in your post 
+Readers often search for VERY specific things and one section in your post 
 may be exactly what they need, but the rest irrelevant. Well chosen headings 
 help readers find your post using search engines and quickly seek to the 
 relevant content before giving up when unsure if the effort to scan your post
@@ -309,9 +309,9 @@ is worth it.
 Started" that will inhibit the content in those sections being found.
 - - -
 **Tip 2** Think about what readers would type to find each section
-in isolation. This will dramatically help your consitent the overall structure 
-and flow of your post and identify when it may be better split out multiple
-concepts under their's own headings.
+in isolation. This will dramatically help the consistency and overall structure 
+of your post and identify when it may be better to split out multiple
+concepts under their own headings.
 
 ** 3.6.3.2 *ToC and heading lengths* **  
 A ToC should be short enough that it's container element does not render in
@@ -326,18 +326,18 @@ out how to keep the ToC a resonable length.
 
 ** 3.6.3.4 *Numbering format* **  
 Numbering is optional. In some (usually longer) posts they can add value. In 
-others it can detract with un-necessary visual clutter and diluted SEO. 
+others it can detract with unnecessary visual clutter and diluted SEO. 
 If you choose to number sections in your post, copy the format in this post.
 
 ** 3.6.3.4 Gotcha's**  
-1. Try avoid headings (especially h1) in code-samples when possible.
+1. Try to avoid headings (especially h1) in code-samples when possible.
 
 ### 3.7 Code samples
 
-Tripple check all code runs before submitting your post. Readers are often
+Triple check all code runs before submitting your post. Readers are often
 already overwhelmed and frustrated learning the subject matter. Commonly they 
 ignore how great your post is and leave negative comments if they 
-loose time when code doesn't run unsure if it's your code sample or them doing
+lose time when code doesn't run unsure if it's your code sample or them doing
 something wrong.  
 
 **Supported language <sup>Languages supported by the [Prism syntax highlighting plugin](http://prismjs.com/#languages-list)</sup> code samples MUST be correctly syntax highlighted**. ***Tip 1*** If it's not highlighting in the 
@@ -368,21 +368,21 @@ The relevance, clarity and professionalism of the main tile image used to
 represent a post is VERY important. The tile image gets used not only in
 the header of a post, but in the "tiles" list view of the Posts section,
 tagged collections of posts, (eventually) on your AirPair profile,
-in sharing to facebook & linkedIn via the `ogImage` tag, tweets by @airpair
-and (soon) in weekely content digest emails.
+in sharing to Facebook & LinkedIn via the `ogImage` tag, tweets by @airpair
+and (soon) in weekly content digest emails.
 
-Potential readers will judge pre-judge your post similar to the way people 
-"judge a book by it's cover". Follow the following guidelines:
+Potential readers will prematurely judge your post similar to the way people 
+"judge a book by its cover". Follow the following guidelines:
 
 1. Make your tile relevant. Random images & artwork are discouraged.
 2. Use a solid color or pattern as the images background.
-3. Incorporate one logo or even multiple logos of the technilogies
+3. Incorporate one logo or even multiple logos of the technologies
 being explored in your content.
 4. Optionally incorporate the airpair logo <sup>AirPair logo uploaded and accessible by `https` via an [issue of this post's repo](https://github.com/airpair/authoring-guide/issues/1)</sup>
 5. Host your image somewhere that supports https. imgur, github.io or even
 the issues section of the repo created for your post as good options.
 6. Tile size and dimensions should be large enough for social
-sharing, but not too big to take un-necessarily bandwidth and time to load.
+sharing, but not too big to take unnecessarily bandwidth and time to load.
 Facebook App Tiles (810x450) make a happy medium. 
 7. Minimum of 640px in width is required to flush in line with the width of 
 the post's body.
@@ -462,7 +462,7 @@ spelling corrections.
 ### 6.3 Syntax highlighting not working
 email team at 
 airpair, as it could be recently added or intentially not yet included in our 
-custom build because we didn't want users downloading 100's of Kbs of un-used
+custom build because we didn't want users downloading 100's of Kbs of unused
 language packs. 
 
 <!--- **href Target blanks**-->
