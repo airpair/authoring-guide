@@ -28,9 +28,9 @@ through help. When deciding to publish here, you should be interested in more
 than your own posts and either *(a)* be wanting to help others over (paid) live 
 pair programming sessions or *(b)* already reviewing posts by others.
 
-## 2 Evolution in progress
+## 2 Platform evolution in progress
 
-### 2.1 Platform
+** Features updates & bugfixes: **
 
 AirPair's Post Section<sup>1</sup> is one of fastest growing and most 
 trafficked software blogs ever. That said, we recognize our tooling as 
@@ -38,7 +38,7 @@ half complete and due for more polish. Most folks perceive AirPair
 as big company. It's actually run with lots of love `{<3}` by one person.
 The authoring features get a wave of attention every 3-6 months.
 
-### 2.2 Community etiquette
+** Community etiquette: **
 
 We'd like you to be aware of and acknowledge the contributions of 10
 distinguished **"Resident Authors"**, awarded the `{R}` badge for helping 
@@ -396,9 +396,21 @@ FreeImages.com<sup>[freeimages.com](http://www.freeimages.com/) is a good first 
 list view so place more importance on the top parts vs bottom parts of your
 image.
 
-## 4 Getting reviews and publishing
+## 4 Publishing
 
-### 4.1 Who should review
+### 4.1 When to publish
+
+You can self publish with 3 or more reviews with an average of 4/5 
+stars or more. 
+
+**Tip** Once you feel ready to push it live, we recommend to step away
+for 2 days leaving your post in review, before coming back for one final
+start to end read. You'll almost always spot one or two things you wish to
+improve before pulling the trigger.
+
+### 4.2 Getting reviews
+
+### 4.2.1 Who should review
 
 People reviewing your post should have sufficient technical knowledge to
 comprehend the accuracy of your post and formulate genuine feedback and insight.
@@ -415,16 +427,6 @@ posts and ban authors that try to game ratings in any way.
 ** Tip ** Researching and emailing others blogging on similar topics is a very
 powerful way of networking and very beneficial to growing our community.
 
-### 4.2 When to publish
-
-You can self publish with 3 or more reviews with an average of 4/5 
-stars or more. 
-
-**Tip** Once you feel ready to push it live, we recommend to step away
-for 2 days leaving your post in review, before coming back for one final
-start to end read. You'll almost always spot one or two things you wish to
-improve before pulling the trigger.
-
 <!-- ## ? Git Publishing -->
 
 <!-- ## ? Forking -->
@@ -437,8 +439,7 @@ Most things in this section are a result of the work in progress nature of
 the platform and will disappear over time. They are quite important to be 
 aware of.
 
-### 6.1 Merge quickly
-
+** 6.1 Merge quickly**  
 Acknowledging contributions is an important community etiquette. Eventually all
 contributions and updated dates will be displayed on each post. 
 
@@ -449,7 +450,7 @@ acknowledging contributions too high.
 **Tip** The easiest approach is to merge a contribution even if it's only 90% 
 there and add the last 10% of polish yourself on top of their commit.
 
-### 6.2 Manually add new lines
+** 6.2 Manually add new lines**  
 At one point we tried to get the editor to auto generate new lines after 80 
 characters, but things went wrong and we'll try again. A good practice is to
 manually add new lines just before the gray line on the right edge of the 
@@ -457,7 +458,7 @@ editor. Without new lines, edits made by contributors will be difficult to
 see as git may track a whole paragraph instead of an 80 char chunk for simple
 spelling corrections.
 
-### 6.3 Syntax highlighting not working
+** 6.3 Syntax highlighting not working**  
 Email team at AirPair, as it could be recently added or intentionally not yet included in our custom build because we didn't want users downloading 100's of Kbs of unused language packs. 
 
 <!--- **href Target blanks**-->
