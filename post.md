@@ -24,7 +24,7 @@ with other experts in your domain that want to share similar passions by
 helping refine and evolve your posts.
 
 Publishing on AirPair is as much about learning through helping as learning 
-through help. When deciding to publish here, you should be intersted in more 
+through help. When deciding to publish here, you should be interested in more 
 than your own posts and either *(a)* be wanting to help others over (paid) live 
 pair programming sessions or *(b)* already reviewing posts by others.
 
